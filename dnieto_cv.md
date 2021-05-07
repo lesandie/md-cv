@@ -12,8 +12,8 @@
 
 <img src="cv.jpg" alt="cv" width="200"/><br>
 
-I was born in the 8-bit era and grew up with a 128Kb spectrum and then an AMIGA 500. I learned to program BASIC at the age of 12 and sudenly I was playing arcade games, SNES and Megadrive until I went to college to study computer science in the 90s: learnt Assembler, C, C ++, JAVA or SQL and the uberunknown Linux!. The first distro I installed was a Slackware!
-I have worked in companies such as Sun Microsystems, Informix software or Ascential until I went to the public sector in 2002. I currently work for the CESGA (Galician Supercomputing Center) for more than 15 years.
+I was born in the 8-bit era and grew up with a 128Kb spectrum and then an AMIGA 500. I learned to program BASIC at the age of 12 and sudenly I was playing arcade games, SNES and Megadrive until I went to college to study computer science in the 90s: learnt Assembler, C, C ++, JAVA or SQL and the uberunknown Linux!. The first distro I installed was a Slackware!.
+I have worked in companies such as Sun Microsystems, Informix software or Ascential until I went to the public sector in 2002. I currently work for the CESGA (Galician Supercomputing Center).
 I like to read, walk and enjoy a good day with my family and kids. Learning is in my DNA, and as a geek i value technology as a tool to improve our lives and change the world.
 
 ## Education
@@ -30,10 +30,14 @@ Project MORFEO: Designed and implemented a datawarehouse for storing and analyzi
 
 **Dec.2001–Actual Senior Engineer/Analyst, Galicia Supercomputing Center(CESGA)**
 
+Since i moved to the Public Sector i've been using the latest tech and applying it to many projects, for example helping with the benchmarking and deployment of the first version of the CESGA's Hadoop cluster for scientists in 2012 that evolved to https://bigdata.cesga.es
+
+I've been working 15+ years at CESGA with many talented colleagues from different areas (networking, computing, apps ...):
+
 * Developing IT and R&D projects at European, National and Regional level: (20+ projects) mainly for the e-Learning Area: Design and implementation of the backend infrastructure with different OSS technologies and tools: http://e-learning.cesga.es
-* Helping different Universities research groups to setup and use the different cloud infraestructures at CESGA.
-* GaleraDB and PostgreSQL cluster infrastucture admin/DBA: due to my background in RDBMSs (+800GB storage from different projects).
-* Videoconference and Streaming infrastructure admin (Jitsi & BigBlueButton) https://seminar.cesga.es & https://meet.srv.cesga.es (80+ users).
+* Helping different Universities research groups to setup and use the different cloud/computing infraestructures at CESGA.
+* GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastucture admin/DBA: due to my strong background in RDBMSs (+800GB storage from different projects).
+* Videoconference and Streaming cluster infrastructure admin (Jitsi & BigBlueButton) https://seminar.cesga.es & https://meet.srv.cesga.es (80+ users).
 * chamilo VLE devops/admin (https://aula.cesga.es) (20K users)
 * Nextcloud infraestructure admin (https://cumulo.cesga.es) (200+ users).
 
@@ -52,6 +56,7 @@ Worked with Informix database technology and Informix content management solutio
 Finishing my studies at the university i was offered a learning position in a Sun sales office in Bilbao working mainly with local clients.
 Worked with Ultra Enterprise hardware, Solaris, Netscape suite, and Java developing solutions to customers like Euskaltel.
 
+
 ## Skills
 
 * Programming:
@@ -69,9 +74,9 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite, and Java develop
   * Portuguese - can read and understand it
 
 
-## Projects & Hobbies
+## Projects & Interests
 
-* I'm a selfhoster with many IoT, sensors, raspberries and HomeAssistant stuff at home. I run my own network infraestructure and sometimes i consult to customers and local SMEs. You can check my website https://www.dnieto-it.es , sorry it is in spanish.
+* I'm a selfhoster with many IoT, sensors, 3D-Printer, raspberries and HomeAssistant stuff at home. I run my own network & storage infraestructure and sometimes i consult to customers and local SMEs. You can check my website https://www.dnieto-it.es , sorry it is in spanish.
 
 * I give lectures at the USC to PhD Students in the eHumanities programme.
 
