@@ -60,7 +60,7 @@ My work mainly was the design, implementation and exploitation of data warehouse
 
 **Mar.2000-Mar2001 | Sales support eng./consultant, Informix Software, Madrid, Spain**
 
-HQ was in Madrid, but i was based in Santiago de Compostela working mainly with local clients but sometimes i had to travel to other spanish areas. 
+HQ was in Madrid, but I was based in Santiago de Compostela working mainly with local clients but sometimes I had to travel to other spanish areas. 
 Worked with Informix database technology and Informix content management solutions (iReach, Media360), for customers like Xunta de Galicia, Altia, Oviedo University, Tele5 and also doing some training sessions at on-site clients. Later that year IBM acquired Informix database business and some former Informix employees stayed at the renamed company: Ascential.
 
 **Feb.1999-Feb.2000 | Engineer, Sun Microsystems, Bilbao, Spain**
