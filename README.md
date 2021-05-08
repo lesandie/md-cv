@@ -12,7 +12,7 @@
 
 [//]: # (Para insertar una imagen <img src="cv.jpg" alt="cv" width="200"/><br>) 
 
-I was born in the 8-bit era and grew up with a 128Kb spectrum and then an AMIGA 500. I learned to program BASIC at the age of 12 and sudenly I was playing arcade games, SNES and Megadrive until I went to college to study computer science in the 90s: learnt Assembler, C, C ++, JAVA or SQL and the uberunknown Linux!. The first distro I installed was a Slackware!.
+I was born in the 8-bit era and grew up with a 128Kb spectrum and then an AMIGA 500. I learned to program BASIC at the age of 12 and sudenly I was playing arcade games, SNES and Megadrive until I went to college to study computer science in the 90s: learnt Assembler, C, C ++, JAVA or SQL and then unknown Linux. The first distro I installed was a Slackware.
 I have worked in companies such as Sun Microsystems, Informix software or Ascential until I went to the public sector in 2002. I currently work for the CESGA (Galician Supercomputing Center).
 I like to read, walk and enjoy a good day with my family and kids. Learning is in my DNA, and as a geek I value technology as a tool to improve our lives and change the world.
 
@@ -26,7 +26,7 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 **Computer Science Joint PhD Programme**<br>
 **Santiago de Compostela (usc.es) & A Coruña (udc.es) Universities**<br>
 
-[Project MORFEO](https://github.com/lesandie/md-cv/almacen.pdf): Designed and implemented a datawarehouse for storing and analyzing data from patients with Cardio-Respiratory Sleep Disorders. I had to deal with different types of data, from basic tests like a Glasgow Scale to binary files from a polysomnography and came up with a design based on Kimball's approach to analyze and study all the data in an OLAP way using Oracle 10g, with the possibility of using datamining techniques. I published an article at a national congress (CASEIB2006 http://www.unavarra.es/caseib2006/Download/abstracts.pdf).
+[Project MORFEO](https://github.com/lesandie/md-cv/blob/main/almacen.pdf): Designed and implemented a datawarehouse for storing and analyzing data from patients with Cardio-Respiratory Sleep Disorders. I had to deal with different types of data, from basic tests like a Glasgow Scale to binary files from a polysomnography and came up with a design based on Kimball's approach to analyze and study all the data in an OLAP way using Oracle 10g, with the possibility of using datamining techniques. I published an article at a national congress (CASEIB2006 http://www.unavarra.es/caseib2006/Download/abstracts.pdf).
 
 ## Experience
 
@@ -38,9 +38,12 @@ I've been working 15+ years at CESGA with many talented colleagues from differen
 
 * Developing IT and R&D projects at European, National and Regional level: (20+ projects) mainly for the e-Learning Area: Design and implementation of the backend infrastructure with different OSS technologies and tools: http://e-learning.cesga.es
 
-* Helping different Universities research groups to setup and use the different cloud/computing infraestructures at CESGA.
+  * [AR-Sci Project](https://ar-sci.cesga.es) Using AR tools to boost learning at Primary and Secondary Schools.  
 
-* GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastucture admin/DBA: due to my strong background in RDBMSs (+800GB storage from different projects). You can check my github repo with some configurations I documented and a failover script in Python. I had to anonymize the code and pushed it to github from a private gitlab repo:
+* Helping different Universities research groups to setup and use the different cloud/computing infrastructures at CESGA.
+
+* GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastructure admin/DBA: due to my strong background in RDBMSs (+800GB storage from different projects). You can check my github repo with some configurations I documented and a failover script in Python. I had to anonymize the code and pushed it to github from a private gitlab repo:
+
   * [pgpool-clusterconfig](https://github.com/lesandie/pgpool-clusterconfig)
   * [pgpool-failover](https://github.com/lesandie/pgpool-failover)
 
@@ -53,7 +56,7 @@ I've been working 15+ years at CESGA with many talented colleagues from differen
 **Mar.2001-Dec.2001 | Sales support eng./consultant, Ascential Software, Madrid, Spain**
 
 Ascential was acquired by Informix prior IBMs acquisition of the later.
-My work mainly was the design, implementation and exploitation of data warehouses usint ETL, and BI tools like DataStage or Crystal Reports. Worked for customers like Repsol or Xunta de Galicia.
+My work mainly was the design, implementation and exploitation of data warehouses using ETL and BI tools like DataStage or Crystal Reports. Worked for customers like Repsol or Xunta de Galicia.
 
 **Mar.2000-Mar2001 | Sales support eng./consultant, Informix Software, Madrid, Spain**
 
@@ -74,7 +77,7 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
   * Shell Scripting
 * System Administration level in Linux
 * DBA Level in PostgreSQL & MariaDB
-* Advanced Docker and basic Kubernetes
+* Docker and basic Kubernetes
 * Languages:
   * Galician - Native
   * Spanish - Native
@@ -83,10 +86,10 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 ## Side jobs & Hobbies
 
-* I'm a selfhoster with many IoT, sensors, 3D-Printer, raspberries and HomeAssistant stuff at home. I run my own network & storage infraestructure and sometimes I consult to customers and local SMEs. You can check my website https://www.dnieto-it.es , sorry it is in spanish.
+* I'm a selfhoster with many IoT, sensors, 3D-Printer, raspberries and HomeAssistant stuff at home. I run my own network (OpenWrt), storage & monitoring (collectd/influxdb/timescaledb/grafana) infrastructure and sometimes I consult to customers and local SMEs. You can check my website https://www.dnieto-it.es (Spanish)
 
 * I've developed a PostGIS backend for a Qgis template, written in PL/pgSQL and using many capabilities of a PostgreSQL database like Materialized views, triggers and functions. You can check the code at [postgis-backend](https://github.com/lesandie/postgis-backend) in my github public repo. Again I had to anonymize the code and push it to a public repo.
 
-* I am a temporal university lecturer at the USCs International PhD School, teaching text image processing with tesseract.
+* I am a temporal university lecturer at the USCs [International PhD School](https://www.usc.gal/en/center/international-phd-school-university-santiago-compostela-edius), teaching text image processing with tesseract.
 
-* I ussually get hired for training sessions in Advanced PostgreSQL.
+* I usually get hired for training sessions of PostgreSQL best practices.
