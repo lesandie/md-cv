@@ -19,12 +19,14 @@ I like to read, walk and enjoy a good day with my family and kids. Learning is i
 ## Education
 
 **1994-1999: BSc, Computer Science Engineering, Deusto University** <br>
+
 Final Degree Project: Developed a front-end interface written in tcl/tk for the debian package manager (dpkg). It used the alien tool (https://joeyh.name/code/alien/) to convert packages between formats (.tgz, .rpm, .deb). 
 
 **2004-2007 MSc in Data engineering** <br>
 **Computer Science Joint PhD Programme**<br>
 **Santiago de Compostela (usc.es) & A Coruña (udc.es) Universities**<br>
-Project MORFEO: Designed and implemented a datawarehouse for storing and analyzing data from patients with Cardio-Respiratory Sleep Disorders. I had to deal with different types of data, from basic tests like a Glasgow Scale to binary files from a polysomnography and came up with a design based on Kimball's approach to analyze and study all the data in an OLAP way using Oracle 10g, with the possibility of using datamining techniques. I published an article at a national congress (CASEIB2006 http://www.unavarra.es/caseib2006/Download/abstracts.pdf) and can send you the full version of my MSc. Sorry it is in Spanish.
+
+[Project MORFEO](https://github.com/lesandie/md-cv/almacen.pdf): Designed and implemented a datawarehouse for storing and analyzing data from patients with Cardio-Respiratory Sleep Disorders. I had to deal with different types of data, from basic tests like a Glasgow Scale to binary files from a polysomnography and came up with a design based on Kimball's approach to analyze and study all the data in an OLAP way using Oracle 10g, with the possibility of using datamining techniques. I published an article at a national congress (CASEIB2006 http://www.unavarra.es/caseib2006/Download/abstracts.pdf).
 
 ## Experience
 
