@@ -26,21 +26,22 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 **Computer Science Joint PhD Programme**<br>
 **Santiago de Compostela (usc.es) & A Coruña (udc.es) Universities**<br>
 
-[Project MORFEO](https://github.com/lesandie/md-cv/blob/main/almacen.pdf): Designed and implemented a datawarehouse for storing and analyzing data from patients with Cardio-Respiratory Sleep Disorders. I had to deal with different types of data, from basic tests like a Glasgow Scale to binary files from a polysomnography and came up with a design based on Kimball's approach to analyze and study all the data in an OLAP way using Oracle 10g, with the possibility of using datamining techniques. I published an article at a national congress (CASEIB2006 http://www.unavarra.es/caseib2006/Download/abstracts.pdf).
+[Project MORFEO (Spanish)](https://github.com/lesandie/md-cv/blob/main/almacen.pdf): Designed and implemented a datawarehouse for storing and analyzing data from patients with Cardio-Respiratory Sleep Disorders. I had to deal with different types of data, from basic tests like a Glasgow Scale to binary files from a polysomnography and came up with a design based on Kimball's approach to analyze and study all the data in an OLAP way using Oracle 10g, with the possibility of using datamining techniques. I published an article at a national level congress (CASEIB2006 http://www.unavarra.es/caseib2006/Download/abstracts.pdf) that was a summary of the main work.
 
 ## Experience
 
 **Dec.2001–Actual | Senior Engineer/Analyst, Galicia Supercomputing Center(CESGA)**
 
-Since i moved to the Public Sector i've been using the latest tech and applying it to many projects, for example helping with the benchmarking and deployment of the first version of the CESGA's Hadoop cluster for scientists in 2012 that evolved to https://bigdata.cesga.es
+Since I moved to the Public Sector I've been using the latest tech and applying it to many projects, for example helping with the benchmarking and deployment of the first version of the CESGA's Hadoop cluster for scientists in 2012 that evolved to https://bigdata.cesga.es
 
-I've been working 15+ years at CESGA with many talented colleagues from different areas (networking, computing, apps ...):
+I've been working 15+ years at CESGA with many talented colleagues from different areas (networking, computing, apps ...) developing many activities and projects. The more remarkable ones:
 
 * Developing IT and R&D projects at European, National and Regional level: (20+ projects) mainly for the e-Learning Area: Design and implementation of the backend infrastructure with different OSS technologies and tools: http://e-learning.cesga.es
 
   * [AR-Sci Project](https://ar-sci.cesga.es) Using AR tools to boost learning at Primary and Secondary Schools.  
 
-* Helping different Universities research groups to setup and use the different cloud/computing infrastructures at CESGA.
+* Helping different Universities research groups and spinoffs to setup and use the different cloud/computing infrastructures at CESGA.
+  * [GeoForsk](http://www.geoforsk.com): configuring and managing their ShinyProxy Docker infrastructure
 
 * GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastructure admin/DBA: due to my strong background in RDBMSs (+800GB storage from different projects). You can check my github repo with some configurations I documented and a failover script in Python. I had to anonymize the code and pushed it to github from a private gitlab repo:
 
@@ -88,7 +89,7 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 * I'm a selfhoster with many IoT, sensors, 3D-Printer, raspberries and HomeAssistant stuff at home. I run my own network (OpenWrt), storage & monitoring (collectd/influxdb/timescaledb/grafana) infrastructure and sometimes I consult to customers and local SMEs. You can check my website https://www.dnieto-it.es (Spanish)
 
-* I've developed a PostGIS backend for a Qgis template, written in PL/pgSQL and using many capabilities of a PostgreSQL database like Materialized views, triggers and functions. You can check the code at [postgis-backend](https://github.com/lesandie/postgis-backend) in my github public repo. Again I had to anonymize the code and push it to a public repo.
+* I've developed a PostGIS backend for a Qgis template, written in PL/pgSQL and using many capabilities of a PostgreSQL engine like materialized views, triggers and functions. You can check the code and rationale at [postgis-backend](https://github.com/lesandie/postgis-backend) in my github public repo. Again I had to anonymize the code and push it to a public repo.
 
 * I am a temporal university lecturer at the USCs [International PhD School](https://www.usc.gal/en/center/international-phd-school-university-santiago-compostela-edius), teaching text image processing with tesseract.
 
