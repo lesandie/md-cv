@@ -24,24 +24,26 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 
 **2004-2007 MSc in Data engineering** <br>
 **Computer Science Joint PhD Programme**<br>
-**Santiago de Compostela (usc.es) & A Coruña (udc.es) Universities**<br>
+**[Santiago de Compostela](https://usc.es) & [A Coruña](https://www.udc.es) Universities**<br>
 
 [Project MORFEO (Spanish)](https://github.com/lesandie/md-cv/blob/main/almacen.pdf): Designed and implemented a datawarehouse for storing and analyzing data from patients with Cardio-Respiratory Sleep Disorders. I had to deal with different types of data, from basic tests like a Glasgow Scale to binary files from a polysomnography and came up with a design based on Kimball's approach to analyze and study all the data in an OLAP way using Oracle 10g, with the possibility of using datamining techniques. I published an article at a national level congress (CASEIB2006 http://www.unavarra.es/caseib2006/Download/abstracts.pdf) that was a summary of the main work.
 
 ## Experience
 
-**Dec.2001–Actual | Senior Engineer/Analyst, Galicia Supercomputing Center(CESGA)**
+**Dec.2001–Actual | Senior Engineer/Analyst, Galicia Supercomputing Center (CESGA)**
 
 Since I moved to the Public Sector I've been using the latest tech and applying it to many projects, for example helping with the benchmarking and deployment of the first version of the CESGA's Hadoop cluster for scientists in 2012 that evolved to https://bigdata.cesga.es
 
-I've been working 15+ years at CESGA with many talented colleagues from different areas (networking, computing, apps ...) developing many activities and projects. The more remarkable ones:
+I've been working 15+ years at CESGA with many talented colleagues from different areas (networking, computing, apps ...) developing many activities and projects. Some remarkable ones:
 
 * Developing IT and R&D projects at European, National and Regional level: (20+ projects) mainly for the e-Learning Area: Design and implementation of the backend infrastructure with different OSS technologies and tools: http://e-learning.cesga.es
 
   * [AR-Sci Project](https://ar-sci.cesga.es) Using AR tools to boost learning at Primary and Secondary Schools.  
 
 * Helping different Universities research groups and spinoffs to setup and use the different cloud/computing infrastructures at CESGA.
+  
   * [GeoForsk](http://www.geoforsk.com): configuring and managing their ShinyProxy Docker infrastructure
+  * [Project Djehuty](http://www.excavacionegipto.com/): The excavation team uses a hardened Raspberrypi4 in AP mode with a PostgreSQL11 instance. They use a Qgis template specially designed to map all the tomb layout and objects they find during the excavation process. When they bring back the "raspi4" I import all the data into the main cluster at CESGA's premises.
 
 * GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastructure admin/DBA: due to my strong background in RDBMSs (+800GB storage from different projects). You can check my github repo with some configurations I documented and a failover script in Python. I had to anonymize the code and pushed it to github from a private gitlab repo:
 
