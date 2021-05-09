@@ -1,5 +1,5 @@
 
-# Diego Nieto Caride
+# Diego Nieto
 
 ## Profile
 
@@ -13,7 +13,7 @@
 [//]: # (Para insertar una imagen <img src="cv.jpg" alt="cv" width="200"/><br>) 
 
 I was born in the 8-bit era and grew up with a 128Kb spectrum and then an AMIGA 500. I learned to program BASIC at the age of 12 and sudenly I was playing arcade games, SNES and Megadrive until I went to college to study computer science in the 90s: learnt Assembler, C, C ++, JAVA or SQL and then unknown Linux. The first distro I installed was a Slackware.
-I have worked in companies such as Sun Microsystems, Informix software or Ascential until I went to the public sector in 2002. I currently work for the CESGA (Galician Supercomputing Center).
+I have worked in companies such as Sun Microsystems, Informix software or Ascential until I went to the public sector in 2002. I currently work for the [CESGA (Galician Supercomputing Center)](https://www.cesga.es).
 I like to read, walk and enjoy a good day with my family and kids. Learning is in my DNA, and as a geek I value technology as a tool to improve our lives and change the world.
 
 ## Education
@@ -36,11 +36,11 @@ Since I moved to the Public Sector I've been using the latest tech and applying 
 
 I've been working 15+ years at CESGA with many talented colleagues from different areas (networking, computing, apps ...) developing many activities and projects. Some remarkable ones:
 
-* Developing IT and R&D projects at European, National and Regional level: (20+ projects) mainly for the e-Learning Area: Design and implementation of the backend infrastructure with different OSS technologies and tools: http://e-learning.cesga.es
+* Developing IT and R&D projects at European, National and Regional level, with other public institutions and also private companies (20+ projects), mainly for the [e-Learning Area](https://e-learning.cesga.es): My main tasks are the design and implementation of the backend infrastructure with different OSS technologies and tools: 
 
   * [AR-Sci Project](https://ar-sci.cesga.es) Using AR tools to boost learning at Primary and Secondary Schools.  
 
-* Helping different Universities research groups and spinoffs to setup and use the different cloud/computing infrastructures at CESGA.
+* Helping different Universities research groups and spin-offs to setup and use the different cloud/computing infrastructures at CESGA.
   
   * [GeoForsk](http://www.geoforsk.com): configuring and managing their ShinyProxy Docker infrastructure
   * [Project Djehuty](http://www.excavacionegipto.com/): The excavation team uses a hardened Raspberrypi4 in AP mode with a PostgreSQL11 instance. They use a Qgis template specially designed to map all the tomb layout and objects they find during the excavation process. When they bring back the "raspi4" I import all the data into the main cluster at CESGA's premises.
@@ -91,7 +91,7 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 * I'm a selfhoster with many IoT, sensors, 3D-Printer, raspberries and HomeAssistant stuff at home. I run my own network (OpenWrt), storage & monitoring (collectd/influxdb/timescaledb/grafana) infrastructure and sometimes I consult to customers and local SMEs. You can check my website https://www.dnieto-it.es (Spanish)
 
-* I've developed a PostGIS backend for a Qgis template, written in PL/pgSQL and using many capabilities of a PostgreSQL engine like materialized views, triggers and functions. You can check the code and rationale at [postgis-backend](https://github.com/lesandie/postgis-backend) in my github public repo. Again I had to anonymize the code and push it to a public repo.
+* I've developed a PostGIS backend for a Qgis project template, written in PL/pgSQL and using many capabilities of a PostgreSQL engine like materialized views, triggers and functions. You can check the code and rationale at [postgis-backend](https://github.com/lesandie/postgis-backend) in my github public repo. Again I had to anonymize the code and push it to a public repo.
 
 * I am a temporal university lecturer at the USCs [International PhD School](https://www.usc.gal/en/center/international-phd-school-university-santiago-compostela-edius), teaching text image processing with tesseract.
 
