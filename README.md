@@ -36,7 +36,7 @@ Since I moved to the Public Sector I've been using the latest tech and applying 
 
 I've been working 15+ years at CESGA with many talented colleagues from different areas (networking, computing, apps ...) developing many activities and projects. Some remarkable ones:
 
-* Developing IT and R&D projects at European, National and Regional level, with other public institutions and also private companies (20+ projects), mainly for the [e-Learning Area](https://e-learning.cesga.es): My main tasks are the design and implementation of the backend infrastructure with different OSS technologies and tools: 
+* Developing IT and R&D projects at European, National and Regional level, with partners such as both public institutions and private companies (20+ projects), mainly for the [e-Learning Area](https://e-learning.cesga.es): My main tasks are the design and implementation of the backend infrastructure with different OSS technologies and tools: 
 
   * [AR-Sci Project](https://ar-sci.cesga.es) Using AR tools to boost learning at Primary and Secondary Schools.  
 
@@ -68,7 +68,7 @@ Worked with Informix database technology and Informix content management solutio
 
 **Feb.1999-Feb.2000 | Engineer, Sun Microsystems, Bilbao, Spain**
 
-Finishing my studies at the university i was offered a learning position in a Sun sales office in Bilbao working mainly with local clients.
+Finishing my studies at the university I was offered a learning position in a Sun sales office in Bilbao working mainly with local clients.
 Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers like Euskaltel. I also developed a Java Applet for the Caja Rural Vasca to simulate mortgages.
 
 ## Skills
@@ -95,4 +95,4 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 * I am a temporal university lecturer at the USCs [International PhD School](https://www.usc.gal/en/center/international-phd-school-university-santiago-compostela-edius), teaching text image processing with tesseract.
 
-* I usually get hired for training sessions of PostgreSQL best practices.
+* I sometimes get hired for training sessions of PostgreSQL best practices.
