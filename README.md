@@ -12,9 +12,9 @@
 
 [//]: # (Para insertar una imagen <img src="cv.jpg" alt="cv" width="200"/><br>) 
 
-I was born in the 8-bit era and grew up with a 128Kb spectrum and then an AMIGA 500. I learned to program BASIC at the age of 12 and sudenly I was playing arcade games, SNES and Megadrive until I went to college to study computer science in the 90s: learnt Assembler, C, C ++, JAVA or SQL and then unknown Linux. The first distro I installed was a Slackware.
+I was born in the 8-bit era and grew up with a 128KB spectrum and then an AMIGA 500. I learned to program BASIC at the age of 12 and sudenly I was playing arcade games, SNES and Megadrive until I went to college to study computer science in the 90s: learnt Assembler, C, C ++, JAVA or SQL and then unknown Linux. The first distro I installed was a Slackware.
 I have worked in companies such as Sun Microsystems, Informix software or Ascential until I went to the public sector in 2002. I currently work for the [CESGA (Galicia Supercomputing Center)](https://www.cesga.es).
-I like to read, walk and enjoy a good day with my family and kids. Learning is in my DNA, and as a geek I value technology as a tool to improve our lives and change the world.
+I like to read, walk and enjoy a good day with my wife and kids. Learning is in my DNA, and as a geek I value technology as a tool to improve our lives and change the world.
 
 ## Education
 
@@ -52,9 +52,9 @@ I've been working 15+ years at CESGA with many talented colleagues from differen
 
 * Videoconference and Streaming cluster infrastructure admin (Jitsi & BigBlueButton) https://seminar.cesga.es & https://meet.srv.cesga.es (150+ users).
 
-* Chamilo VLE devops/admin (https://aula.cesga.es) (10K users).
+* Chamilo VLE devops/admin (https://aula.cesga.es) (10K users). In the e-Learnig area we also run a helpdesk to receive emails wih problems from users and to solve them, just pointing them out how to interact with the webapp to do some tasks, or in case of a bug, solve it and push the fix to our private gitlab repo. When we have time, we try to PR our corrections and new functionalities into the [Chamilo](https://github.com/chamilo/chamilo-lms) public repo.
 
-* Nextcloud infraestructure admin (https://cumulo.cesga.es) (200+ users).
+* Nextcloud infrastructure admin (https://cumulo.cesga.es) (200+ users).
 
 **Mar.2001-Dec.2001 | Sales support eng./consultant, Ascential Software, Madrid, Spain**
 
