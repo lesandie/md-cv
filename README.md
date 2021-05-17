@@ -36,25 +36,27 @@ Since I moved to the Public Sector I've been using the latest tech and applying 
 
 I've been working 15+ years at CESGA with many talented colleagues from different areas (networking, computing, apps ...) developing many activities and projects. Some remarkable ones:
 
-* Developing IT and R&D projects at European, National and Regional level, with partners such as both public institutions and private companies (20+ projects), mainly for the [e-Learning Area](https://e-learning.cesga.es): My main tasks are the design and implementation of the backend infrastructure with different OSS technologies and tools: 
+* Developing IT and R&D projects at European, National and Regional level, with partners such as both public institutions and private companies (20+ projects), mainly for the [e-Learning Area](https://e-learning.cesga.es):
 
   * [AR-Sci Project](https://ar-sci.cesga.es) Using AR tools to boost learning at Primary and Secondary Schools.  
 
+* Design and implementation of backend infrastructures with different OSS technologies and tools for CESGA's services: 
+
+  * GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastructure admin/DBA: due to my strong background in RDBMSs (+1TB storage). Many of CESGA's services, projects and critical infrastructure (Accounting for HPC resources) share both of these backends. You can check my github repo with some configurations I documented and a failover script in Python. I had to anonymize the code and pushed it to github from a private gitlab repo:
+
+    * [pgpool-clusterconfig](https://github.com/lesandie/pgpool-clusterconfig)
+    * [pgpool-failover](https://github.com/lesandie/pgpool-failover)
+
+  * Videoconference and Streaming service infrastructure admin (Jitsi & BigBlueButton) https://seminar.cesga.es & https://meet.srv.cesga.es (150+ users).
+
+  * Chamilo VLE service devops/admin (https://aula.cesga.es) (10K users). In the e-Learnig area we also run a helpdesk to receive emails wih problems from users and to solve them, just pointing them out how to interact with the webapp to do some tasks, or in case of a bug, solve it and push the fix to our private gitlab repo. When we have time, we try to PR our corrections and new functionalities into the [Chamilo](https://github.com/chamilo/chamilo-lms) public repo.
+
+  * Nextcloud service infrastructure admin (https://cumulo.cesga.es) (200+ users).
+
 * Helping different Universities research groups and spin-offs to setup and use the different cloud/computing infrastructures at CESGA.
   
-  * [GeoForsk](http://www.geoforsk.com): configuring and managing their ShinyProxy Docker infrastructure
+  * [GeoForsk](http://www.geoforsk.com): configuring and managing their ShinyProxy Docker infrastructure.
   * [Project Djehuty](http://www.excavacionegipto.com/): The excavation team uses a hardened Raspberrypi4 in AP mode with a PostgreSQL11 instance. They use a Qgis template specially designed to map all the tomb layout and objects they find during the excavation process. When they bring back the "raspi4" I import all the data into the main cluster at CESGA's premises.
-
-* GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastructure admin/DBA: due to my strong background in RDBMSs (+800GB storage from different projects). You can check my github repo with some configurations I documented and a failover script in Python. I had to anonymize the code and pushed it to github from a private gitlab repo:
-
-  * [pgpool-clusterconfig](https://github.com/lesandie/pgpool-clusterconfig)
-  * [pgpool-failover](https://github.com/lesandie/pgpool-failover)
-
-* Videoconference and Streaming cluster infrastructure admin (Jitsi & BigBlueButton) https://seminar.cesga.es & https://meet.srv.cesga.es (150+ users).
-
-* Chamilo VLE devops/admin (https://aula.cesga.es) (10K users). In the e-Learnig area we also run a helpdesk to receive emails wih problems from users and to solve them, just pointing them out how to interact with the webapp to do some tasks, or in case of a bug, solve it and push the fix to our private gitlab repo. When we have time, we try to PR our corrections and new functionalities into the [Chamilo](https://github.com/chamilo/chamilo-lms) public repo.
-
-* Nextcloud infrastructure admin (https://cumulo.cesga.es) (200+ users).
 
 **Mar.2001-Dec.2001 | Sales support eng./consultant, Ascential Software, Madrid, Spain**
 
@@ -89,7 +91,7 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 ## Side jobs & Hobbies
 
-* I'm a selfhoster with many IoT, sensors, 3D-Printer, raspberries and HomeAssistant stuff at home. I run my own network (OpenWrt), storage & monitoring (collectd/influxdb/timescaledb/grafana) infrastructure and sometimes I consult to customers and local SMEs. You can check my website https://www.dnieto-it.es (Spanish)
+* I'm a selfhoster with many IoT, sensors, 3D-Printer, raspberries and HomeAssistant stuff at home. I run my own network (OpenWrt), storage & monitoring (collectd/influxdb/timescaledb/grafana) infrastructure and sometimes I consult to customers and local SMEs. You can check my website [https://www.dnieto-it.es](https://www.dnieto-it.es) (Spanish)
 
 * I've developed a PostGIS backend for a Qgis project template, written in PL/pgSQL and using many capabilities of a PostgreSQL engine like materialized views, triggers and functions. You can check the code and rationale at [postgis-backend](https://github.com/lesandie/postgis-backend) in my github public repo. Again I had to anonymize the code and push it to a public repo.
 
