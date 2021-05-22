@@ -14,7 +14,12 @@
 
 I was born in the 8-bit era and grew up with a 128KB spectrum and then an AMIGA 500. I learned to program BASIC at the age of 12 and sudenly I was playing arcade games, SNES and Megadrive until I went to college to study computer science in the 90s: learnt Assembler, C, C ++, JAVA or SQL and then unknown Linux. The first distro I installed was a Slackware.
 I have worked in companies such as Sun Microsystems, Informix software or Ascential until I went to the public sector in 2002. I currently work for the [CESGA (Galicia Supercomputing Center)](https://www.cesga.es).
-I like to read, walk and enjoy a good day with my wife and kids. Learning is in my DNA, and as a geek I value technology as a tool to improve our lives and change the world.
+I like to read, walk and enjoy a good day with my wife and kids. Continuous learning is in my DNA, and as a geek I value technology as a tool to improve our lives and change the world.
+
+My interests and skills are bet on DBMSs, SQL, PL/pgSQL, Python and sysadmin stuff, in which I have a strong technical background and experience.
+
+If I have to choose a set of labels for my work they would be: data/database engineer with a pinch of sales support and data science: Understand business goals and technical requirements and turn complex problems into understandable, achievable solutions.
+
 
 ## Education
 
@@ -42,26 +47,26 @@ I've been working 15+ years at CESGA with many talented colleagues from differen
 
 * Design and implementation of backend infrastructures with different OSS technologies and tools for CESGA's services: 
 
-  * GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastructure admin/DBA: due to my strong background in RDBMSs (+1TB storage). Many of CESGA's services, projects and critical infrastructure (Accounting for HPC resources) share both of these backends. You can check my github repo with some configurations I documented and a failover script in Python. I had to anonymize the code and pushed it to github from a private gitlab repo:
+  * GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastructure sysadmin/DBA: due to my strong background in RDBMSs (+1TB storage). Many of CESGA's services, projects and critical infrastructure (Accounting for HPC resources) share both of these backends. You can check my github repo with some configurations I documented and a failover script in Python. I had to anonymize the code and pushed it to github from a private gitlab repo:
 
     * [pgpool-clusterconfig](https://github.com/lesandie/pgpool-clusterconfig)
     * [pgpool-failover](https://github.com/lesandie/pgpool-failover)
 
   * Videoconference and Streaming service infrastructure admin (Jitsi & BigBlueButton) https://seminar.cesga.es & https://meet.srv.cesga.es (150+ users).
 
-  * Chamilo VLE service devops/admin (https://aula.cesga.es) (10K users). In the e-Learnig area we also run a helpdesk to receive emails wih problems from users and to solve them, just pointing them out how to interact with the webapp to do some tasks, or in case of a bug, solve it and push the fix to our private gitlab repo. When we have time, we try to PR our corrections and new functionalities into the [Chamilo](https://github.com/chamilo/chamilo-lms) public repo.
+  * Chamilo VLE service sysadmin/devops (https://aula.cesga.es) (10K users). In the e-Learnig area we also run a helpdesk to receive emails wih problems from users and to solve them, just pointing them out how to interact with the webapp to do some tasks, or in case of a bug, solve it and push the fix to our private gitlab repo. When we have time, we try to PR our corrections and new functionalities into the [Chamilo](https://github.com/chamilo/chamilo-lms) public repo.
 
-  * Nextcloud service infrastructure admin (https://cumulo.cesga.es) (200+ users).
+  * Nextcloud service infrastructure sysadmin (https://cumulo.cesga.es) (200+ users).
 
 * Helping different Universities research groups and spin-offs to setup and use the different cloud/computing infrastructures at CESGA.
   
-  * [GeoForsk](http://www.geoforsk.com): configuring and managing their ShinyProxy Docker infrastructure.
+  * [GeoForsk](http://www.geoforsk.com): configuring and managing their ShinyProxy Docker infrastructure with some dataops stuff.
   * [Project Djehuty](http://www.excavacionegipto.com/): The excavation team uses a hardened Raspberrypi4 in AP mode with a PostgreSQL11 instance. They use a Qgis template specially designed to map all the tomb layout and objects they find during the excavation process. When they bring back the "raspi4" I import all the data into the main cluster at CESGA's premises.
 
 **Mar.2001-Dec.2001 | Sales support eng./consultant, Ascential Software, Madrid, Spain**
 
 Ascential was acquired by Informix prior IBMs acquisition of the later.
-My work mainly was the design, implementation and exploitation of data warehouses using ETL and BI tools like DataStage or Crystal Reports. Worked for customers like Repsol or Xunta de Galicia.
+My work mainly was the design, implementation and exploitation of data warehouses using ETL and BI tools like DataStage, Cognos or Crystal Reports. Worked for customers like Repsol or Xunta de Galicia.
 
 **Mar.2000-Mar2001 | Sales support eng./consultant, Informix Software, Madrid, Spain**
 
@@ -91,7 +96,7 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 ## Side jobs & Hobbies
 
-* I'm a selfhoster with many IoT, sensors, 3D-Printer, raspberries and HomeAssistant stuff at home. I run my own network (OpenWrt), storage & monitoring (collectd/influxdb/timescaledb/grafana) infrastructure and sometimes I consult to customers and local SMEs. You can check my website [https://www.dnieto-it.es](https://www.dnieto-it.es) (Spanish)
+* I'm a selfhoster with many IoT, sensors, 3D-Printer, raspberries and HomeAssistant stuff at home. I run my own network (OpenWrt), storage & monitoring (collectd/prometheus/influxdb/timescaledb/grafana) infrastructure and sometimes I consult to customers and local SMEs. You can check my website [https://www.dnieto-it.es](https://www.dnieto-it.es) (Spanish)
 
 * I've developed a PostGIS backend for a Qgis project template, written in PL/pgSQL and using many capabilities of a PostgreSQL engine like materialized views, triggers and functions. You can check the code and rationale at [postgis-backend](https://github.com/lesandie/postgis-backend) in my github public repo. Again I had to anonymize the code and push it to a public repo.
 
