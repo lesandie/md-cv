@@ -16,7 +16,7 @@ I was born in the 8-bit era and grew up with a 128KB spectrum and then an AMIGA 
 I have worked in companies such as Sun Microsystems, Informix software or Ascential until I went to the public sector in 2002. I currently work for the [CESGA (Galicia Supercomputing Center)](https://www.cesga.es).
 I like to read, walk and enjoy a good day with my wife and kids. Continuous learning is in my DNA, and as a geek I value technology as a tool to improve our lives and change the world.
 
-My interests and skills are bet on DBMSs, SQL, PL/pgSQL, Python and sysadmin stuff, in which I have a strong technical background and experience.
+During my long experience I touched a lot of technologies and paradigms, some still around, but my interests and skills are bet on DBMSs, SQL, PL/pgSQL, Python and sysadmin stuff, in which I have a strong technical background and experience. 
 
 If I have to choose a set of labels for my work they would be: data/database engineer with a pinch of sales support and data science: Understand business goals and technical requirements and turn complex problems into understandable, achievable solutions.
 
@@ -37,15 +37,12 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 
 **Dec.2001–Actual | Senior Engineer/Analyst, Galicia Supercomputing Center (CESGA)**
 
-Since I moved to the Public Sector I've been using the latest tech and applying it to many projects, for example helping with the benchmarking and deployment of the first version of the CESGA's Hadoop cluster for scientists in 2012 that evolved to https://bigdata.cesga.es
+Since I moved to CESGA I've been using the latest tech and applying it to many projects, for example helping with the benchmarking and deployment of the first version of the CESGA's Hadoop cluster for scientists in 2012 that evolved to https://bigdata.cesga.es
+In terms of computing, networking and storage infrastructure level, CESGA runs its own datacenter so we build what we need using our computing and networking resources.
 
-I've been working 15+ years at CESGA with many talented colleagues from different areas (networking, computing, apps ...) developing many activities and projects. Some remarkable ones:
+I've been working 15+ years at CESGA with many talented colleagues from different areas (networking, computing, apps ...) developing many activities and projects while managing the technical team of the e-learning area. Some remarkable ones:
 
-* Developing IT and R&D projects at European, National and Regional level, with partners such as both public institutions and private companies (20+ projects), mainly for the [e-Learning Area](https://e-learning.cesga.es):
-
-  * [AR-Sci Project](https://ar-sci.cesga.es) Using AR tools to boost learning at Primary and Secondary Schools.  
-
-* Design and implementation of backend infrastructures with different OSS technologies and tools for CESGA's services: 
+* Design and implementation of backend infrastructures with different OSS technologies and tools for CESGA's main services: 
 
   * GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastructure sysadmin/DBA: due to my strong background in RDBMSs (+1TB storage). Many of CESGA's services, projects and critical infrastructure (Accounting for HPC resources) share both of these backends. You can check my github repo with some configurations I documented and a failover script in Python. I had to anonymize the code and pushed it to github from a private gitlab repo:
 
@@ -62,6 +59,12 @@ I've been working 15+ years at CESGA with many talented colleagues from differen
   
   * [GeoForsk](http://www.geoforsk.com): configuring and managing their ShinyProxy Docker infrastructure with some dataops stuff.
   * [Project Djehuty](http://www.excavacionegipto.com/): The excavation team uses a hardened Raspberrypi4 in AP mode with a PostgreSQL11 instance. They use a Qgis template specially designed to map all the tomb layout and objects they find during the excavation process. When they bring back the "raspi4" I import all the data into the main cluster at CESGA's premises.
+
+*  Developing IT and R&D projects at European, National and Regional level, with partners such as both public institutions and private companies (20+ projects), mainly for the [e-Learning Area](https://e-learning.cesga.es). These projects were focused on applying the latest tech and tools in different learning environments and helping the educational and academic community to improve their pedagogical and learning processes.
+
+  * [AR-Sci Project](https://ar-sci.cesga.es): Using AR tools to boost learning at Primary and Secondary Schools. VR tech was booming in that particular time and many educational institutions asked us to build some prototypes and learning materials that were piloted in live lectures and classrooms. (UK, DK, NO, ES). 
+
+  * [Boats4Schools Project](http://boats4schools.eu): We helped primary and secondary school teachers to develop the STEM capabilities of their students by designing and creating their own robotic ships (using CAD, SBCs like arduino and 3D Printers) and organizing an international challenge (ES, PT, IT) to select the best design and test it in a racing event. A very funny and enjoyable experience.
 
 **Mar.2001-Dec.2001 | Sales support eng./consultant, Ascential Software, Madrid, Spain**
 
