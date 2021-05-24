@@ -106,6 +106,8 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 * I've developed a PostGIS backend for a Qgis project template, written in PL/pgSQL and using many capabilities of a PostgreSQL engine like materialized views, triggers and functions. You can check the code and rationale at [postgis-backend](https://github.com/lesandie/postgis-backend) in my github public repo. Again I had to anonymize the code and push it to a public repo.
 
+* Some problem solving skills using the analytics platform [Tinybird](https://tinybird.co) at [tinybird_nyc_taxi](https://github.com/lesandie/tinybird_nyc_taxi). **Big thanks to the tinybird team for giving me an account!**
+
 * I am a temporal university lecturer at the USCs [International PhD School](https://www.usc.gal/en/center/international-phd-school-university-santiago-compostela-edius), teaching text image processing with tesseract.
 
 * I sometimes get hired for training sessions of PostgreSQL best practices.
