@@ -46,7 +46,7 @@ I've been working 15+ years at CESGA with many talented colleagues from differen
 * Design and implementation of backend infrastructures with different OSS technologies and tools for CESGA's main services: 
 
   * *GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastructure sysadmin/DBA*: due to my strong background in RDBMSs (+1TB storage). Many of CESGA's services, projects and critical infrastructure (Accounting for HPC resources) share both of these backends. 
-  I write shell or python scripts to automate some monitorization metrics or database backups and sometimes I have to update or add new stuff to them. Also I help users to tune/rewrite their queries or solve performance problems. You can check my github repo with some configurations I documented, a failover script in Python and some backup shell scripts. I had to anonymize the code and pushed it to github from a private gitlab repo:
+  I write shell or python scripts to automate some monitorization metrics or database backups and sometimes I have to update or add new stuff to them. Also I help users to tune/rewrite their queries, solve performance issues or write ETL functions PL/pgSQL. You can check my github repo with some configurations I documented, a failover script in Python and some backup shell scripts. I had to anonymize the code and pushed it to github from a private gitlab repo:
 
     * [pgpool-clusterconfig](https://github.com/lesandie/pgpool-clusterconfig)
     * [pgpool-failover](https://github.com/lesandie/pgpool-failover)
@@ -106,7 +106,7 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 * I've developed a PostGIS backend for a Qgis project template, written in PL/pgSQL and using many capabilities of a PostgreSQL engine like materialized views, triggers and functions. You can check the code and rationale at [postgis-backend](https://github.com/lesandie/postgis-backend) in my github public repo. Again I had to anonymize the code and push it to a public repo.
 
-* Some problem solving skills using the analytics platform [Tinybird](https://tinybird.co) at my repo [tinybird_nyc_taxi](https://github.com/lesandie/tinybird_nyc_taxi). **Big thanks to the tinybird team for giving me an account!**
+* Some problem solving skills using the analytics platform [Tinybird](https://tinybird.co) at my repo [tinybird_nyc_taxi](https://github.com/lesandie/tinybird_nyc_taxi). **Big thanks to the tinybird team for providing me with an account!**
 
 * I am a temporal university lecturer at the USCs [International PhD School](https://www.usc.gal/en/center/international-phd-school-university-santiago-compostela-edius), teaching text image processing with tesseract.
 
