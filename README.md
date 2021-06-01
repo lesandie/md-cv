@@ -45,17 +45,22 @@ I've been working 15+ years at CESGA with many talented colleagues from differen
 
 * Design and implementation of backend infrastructures with different OSS technologies and tools for CESGA's main services: 
 
-  * *GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastructure sysadmin/DBA*: due to my strong background in RDBMSs (+1TB storage). Many of CESGA's services, projects and critical infrastructure (Accounting for HPC resources) share both of these backends. 
-  I write shell or python scripts to automate some monitorization metrics or database backups and sometimes I have to update or add new stuff to them. Also I help users to tune/rewrite their queries, solve performance issues or write ETL functions PL/pgSQL. You can check my github repo with some configurations I documented, a failover script in Python and some backup shell scripts. I had to anonymize the code and pushed it to github from a private gitlab repo:
+  * *GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastructure sysadmin/DBA*: due to my strong background in RDBMSs (+1TB storage). Many of CESGA's services (like the ones described next), projects and critical infrastructure (Accounting for HPC resources) share both of these backends: 
+      * I write shell or python scripts to automate some monitorization metrics, database backups or sysadmin stuff and sometimes I have to update or add new stuff to them. 
+      * Also I help users to model E/R schemas to incorporate their datasets
+      * Tune/rewrite their queries
+      * Solve performance issues or write ETL pipelines in PL/pgSQL or Python.
+
+    You can check my github repo with some configurations I documented, a failover script in Python and some backup shell scripts. I had to anonymize the code and pushed it to github from a private gitlab repo:
 
     * [pgpool-clusterconfig](https://github.com/lesandie/pgpool-clusterconfig)
     * [pgpool-failover](https://github.com/lesandie/pgpool-failover)
 
-  * *Videoconference and Streaming service infrastructure admin (Jitsi & BigBlueButton) https://seminar.cesga.es & https://meet.srv.cesga.es (150+ users)*.
+  * *Videoconference and Streaming scalable service infrastructure admin (Jitsi & BigBlueButton) https://seminar.cesga.es & https://meet.srv.cesga.es (150+ users)*.
 
-  * *Chamilo VLE service sysadmin/devops (https://aula.cesga.es) (10K users)*. In the e-Learnig area we also run a helpdesk to receive emails wih problems from users and to solve them, just pointing them out how to interact with the webapp to do some tasks, or in case of a bug, solve it and push the fix to our private gitlab repo. When we have time, we try to PR our corrections and new functionalities into the [Chamilo](https://github.com/chamilo/chamilo-lms) public repo.
+  * *Chamilo scalable VLE service sysadmin/devops (https://aula.cesga.es) (10K users)*. In the e-Learnig area we also run a helpdesk to receive emails wih problems from users and to solve them, just pointing them out how to interact with the webapp to do some tasks, or in case of a bug, solve it and push the fix to our private gitlab repo. When we have time, we try to PR our corrections and new functionalities into the [Chamilo](https://github.com/chamilo/chamilo-lms) public repo.
 
-  * *Nextcloud service infrastructure sysadmin* (https://cumulo.cesga.es) (200+ users).
+  * *Nextcloud scalable service infrastructure sysadmin* (https://cumulo.cesga.es) (200+ users).
 
 * Helping different Universities research groups and spin-offs to setup and use the different cloud/computing infrastructures at CESGA.
   
