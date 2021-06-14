@@ -115,4 +115,4 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 * I am a temporal university lecturer at the USCs [International PhD School](https://www.usc.gal/en/center/international-phd-school-university-santiago-compostela-edius), teaching text image processing with tesseract.
 
-* I sometimes get hired for training sessions of PostgreSQL best practices.
+* I sometimes get hired for training sessions of PostgreSQL best practices (spanish). [Guia PostgreSQL](https://github.com/lesandie/guia-postgres)
