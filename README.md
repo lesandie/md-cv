@@ -38,13 +38,11 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 **Ago2021–Now | Data Engineer, [Tinybird](https://tinybird.co)**
 
 My main work was in a real time analytics environment, solving issues and adding new features to ETL pipelines and API endpoints for clients. 
-Tipycally the workflow was: batching out data from Snowflake or PostgreSQL into Tinybird (ClickHouse) and preparing different endpoints to query the data in real time. The batches were managed with GitHub actions (some every minute, others every day depending on the operational needs of the client) using the tinybird's CLI tool that has different connectors for different databases (BigQuery, SnowFlake, PostgreSQL, etc. 
-
-Also other clients used the streaming API of Tinybird and I've developed a [python benchmark](https://gist.github.com/lesandie/ef0a56b27e4437d237cc8bb6447c9b5c) to check the ingestion limits for a simulated Black Friday load environment.
+Tipycally the workflow was: batching out data from Snowflake or PostgreSQL into Tinybird (ClickHouse) and preparing different endpoints to query the data in real time. The batches were managed with GitHub actions (some every minute, others every day depending on the operational needs of the client) using the tinybird's CLI tool that has different connectors for different databases (BigQuery, SnowFlake, PostgreSQL, etc. Also other clients used the streaming API of Tinybird and I've developed a python benchmark to check the ingestion limits simulating a specific load environment.
 
 I contributed to the product by doing some PRs to fix some issues detected working with the clients and helped with the content of some blog posts about ClickHouse. 
 
-The main tooling I used was SQL, Python, Tinybird API and CLI and ClickHouse, with Google Cloud and ansible for deployments
+The main tooling I used was SQL, Python, Tinybird API and CLI and ClickHouse, with Google Cloud and Ansible for deployments
 
 **Dec.2001–Jun2021 | Engineer/Analyst, Galicia Supercomputing Center (CESGA)**
 
