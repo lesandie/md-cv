@@ -35,7 +35,18 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 
 ## Experience
 
-**Dec.2001–Actual | Senior Engineer/Analyst, Galicia Supercomputing Center (CESGA)**
+**Ago2021–Now | Data Engineer, [Tinybird](https://tinybird.co)**
+
+My main work was in a real time analytics environment, solving issues and adding new features to ETL pipelines and API endpoints for clients. 
+Tipycally the workflow was: batching out data from Snowflake or PostgreSQL into Tinybird (ClickHouse) and preparing different endpoints to query the data in real time. The batches were managed with GitHub actions (some every minute, others every day depending on the operational needs of the client) using the tinybird's CLI tool that has different connectors for different databases (BigQuery, SnowFlake, PostgreSQL, etc. 
+
+Also other clients used the streaming API of Tinybird and I've developed a [python benchmark](https://gist.github.com/lesandie/ef0a56b27e4437d237cc8bb6447c9b5c) to check the ingestion limits for a simulated Black Friday load environment.
+
+I contributed to the product by doing some PRs to fix some issues detected working with the clients and helped with the content of some blog posts about ClickHouse. 
+
+The main tooling I used was SQL, Python, Tinybird API and CLI and ClickHouse, with Google Cloud and ansible for deployments
+
+**Dec.2001–Jun2021 | Engineer/Analyst, Galicia Supercomputing Center (CESGA)**
 
 Since I moved to CESGA I've been using the latest tech and applying it to many projects, for example helping with the benchmarking and deployment of the first version of the CESGA's Hadoop cluster for scientists in 2012 that evolved to https://bigdata.cesga.es
 
@@ -113,6 +124,6 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 * Some problem solving skills using the analytics platform [Tinybird](https://tinybird.co) at my repo [tinybird_nyc_taxi](https://github.com/lesandie/tinybird_nyc_taxi). **Big thanks to the tinybird team for providing me with an account!**
 
-* I am a temporal university lecturer at the USCs [International PhD School](https://www.usc.gal/en/center/international-phd-school-university-santiago-compostela-edius), teaching text image processing with tesseract.
+* (2018-2020) I was temporal university lecturer at the USCs [International PhD School](https://www.usc.gal/en/center/international-phd-school-university-santiago-compostela-edius), teaching text image processing with tesseract.
 
 * I sometimes get hired for training sessions of PostgreSQL best practices (spanish). [Guia PostgreSQL](https://github.com/lesandie/guia-postgres)
