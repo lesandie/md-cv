@@ -21,7 +21,6 @@ During my long experience I touched a lot of technologies, languages and paradig
 
 If I have to choose a set of labels for my work they would be: data/database engineer with a pinch of sales support and data science: Understand business goals and technical requirements and turn complex problems into understandable, achievable solutions.
 
-
 ## Education
 
 **1994-1999: BSc, Computer Science Engineering, Deusto University** <br>
@@ -38,18 +37,18 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 
 **Ago2021–Now | Data Engineer, [Tinybird](https://tinybird.co)**
 
-My main work was in a real time analytics environment, solving issues and adding new features to ETL pipelines and API endpoints for clients. 
-Tipycally the workflow was: batching out data from Snowflake or PostgreSQL into Tinybird (ClickHouse) and preparing different endpoints to query the data in real time. The batches were managed with GitHub actions (some every minute, others every day depending on the operational needs of the client) using the tinybird's CLI tool that has different connectors for different databases (BigQuery, SnowFlake, PostgreSQL, etc. Also other clients used the streaming API of Tinybird and I've developed a python benchmark to check the ingestion limits simulating a specific load environment.
+I work in a real time analytics environment, solving issues and adding new features to ETL pipelines and API endpoints for clients. 
+Tipycally the workflow is: batching out data from Snowflake or PostgreSQL into Tinybird (ClickHouse) and preparing different endpoints to query the data in real time. The batches were managed with GitHub actions (some every minute, others every day depending on the operational needs of the client) using the tinybird's CLI tool that has different connectors for different databases (BigQuery, SnowFlake, PostgreSQL, etc. Also other clients used the streaming API of Tinybird and I've developed a python benchmark to check the ingestion limits simulating a specific load environment.
 
-I contributed to the product by doing some PRs to fix some issues detected working with the clients and helped with the content of some blog posts about ClickHouse. 
+I contribute to the product by doing some PRs to fix some issues detected working with the clients and helped with the content of some blog posts about ClickHouse. 
 
-The main tooling I used was SQL, Python, Tinybird API and CLI and ClickHouse, with Google Cloud and Ansible for deployments
+The main tooling I use is SQL, Python, Tinybird API and CLI and ClickHouse, with Google Cloud and Ansible for deployments
 
 **Dec.2001–Jun2021 | Engineer/Analyst, Galicia Supercomputing Center (CESGA)**
 
 Since I moved to CESGA I've been using the latest tech and applying it to many projects, for example helping with the benchmarking and deployment of the first version of the CESGA's Hadoop cluster for scientists in 2012 that evolved to https://bigdata.cesga.es
 
-In terms of computing, networking and storage infrastructure, CESGA runs its own datacenter so we build what we need using our computing and networking resources.
+In terms of computing, networking and storage infrastructure, CESGA runs its own datacenter so we built what we need using our computing and networking resources.
 
 I've been working 15+ years at CESGA with many talented colleagues from different areas (networking, computing, apps ...) developing many activities and projects while managing the technical team of the e-learning area. Some remarkable ones:
 
@@ -121,7 +120,7 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 * I've developed a PostGIS backend for a Qgis project template, written in PL/pgSQL and using many capabilities of a PostgreSQL engine like materialized views, triggers and functions. You can check the code and rationale at [postgis-backend](https://github.com/lesandie/postgis-backend) in my github public repo. Again I had to anonymize the code and push it to a public repo.
 
-* Some problem solving skills using the analytics platform [Tinybird](https://tinybird.co) at my repo [tinybird_nyc_taxi](https://github.com/lesandie/tinybird_nyc_taxi). **Big thanks to the tinybird team for providing me with an account!**
+* Some problem solving skills using the analytics platform [Tinybird](https://tinybird.co) at my repo [tinybird_nyc_taxi](https://github.com/lesandie/tinybird_nyc_taxi).
 
 * (2018-2020) I was temporal university lecturer at the USCs [International PhD School](https://www.usc.gal/en/center/international-phd-school-university-santiago-compostela-edius), teaching text image processing with tesseract.
 
