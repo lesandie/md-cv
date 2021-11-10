@@ -123,10 +123,12 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 * I'm a selfhoster with many IoT, sensors, 3D-Printer, raspberries and HomeAssistant stuff at home. I run my own network (OpenWrt), storage & monitoring (collectd/prometheus/influxdb/timescaledb/grafana) infrastructure and sometimes I consult to customers and local SMEs. You can check my website [https://www.dnieto-it.es](https://www.dnieto-it.es) (Spanish)
 
+* I sometimes get hired for training sessions of PostgreSQL best practices (spanish). [Guia PostgreSQL](https://github.com/lesandie/guia-postgres)
+
 * I've developed a PostGIS backend for a Qgis project template, written in PL/pgSQL and using many capabilities of a PostgreSQL engine like materialized views, triggers and functions. You can check the code and rationale at [postgis-backend](https://github.com/lesandie/postgis-backend) in my github public repo. Again I had to anonymize the code and push it to a public repo.
 
-* Some problem solving skills using the analytics platform [Tinybird](https://tinybird.co) at my repo [tinybird_nyc_taxi](https://github.com/lesandie/tinybird_nyc_taxi).
+* Some problem solving skills:
+  * Using the analytics platform [Tinybird](https://tinybird.co) at my repo [tinybird_nyc_taxi](https://github.com/lesandie/tinybird_nyc_taxi)
+  * Python scripting for a job application at [Spartacommodities](https://spartacommodities.com) at another repo [sparta](https://github.com/lesandie/sparta)
 
 * (2018-2020) I was temporal university lecturer at the USCs [International PhD School](https://www.usc.gal/en/center/international-phd-school-university-santiago-compostela-edius), teaching text image processing with tesseract.
-
-* I sometimes get hired for training sessions of PostgreSQL best practices (spanish). [Guia PostgreSQL](https://github.com/lesandie/guia-postgres)
