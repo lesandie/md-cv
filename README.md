@@ -112,7 +112,8 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
   * DBA Level in PostgreSQL & MariaDB
 * Sys/infra:
   * System Administration level in Linux
-  * Docker and Kubernetes (learning)
+  * Docker
+  * Kubernetes (learning)
 * Languages:
   * Galician - Native
   * Spanish - Native
