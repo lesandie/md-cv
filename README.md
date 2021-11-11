@@ -38,34 +38,34 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 **Ago2021–Now | Data Engineer, [Tinybird](https://tinybird.co)**
 
 I work in a real time analytics environment, solving issues and adding new features to ETL pipelines and API endpoints for clients. 
-Tipycally the workflow is: batching out data from Snowflake or PostgreSQL into Tinybird (ClickHouse) and preparing different endpoints to query the data in real time. The batches were managed with GitHub actions (some every minute, others every day depending on the operational needs of the client) using the tinybird's CLI tool that has different connectors for different databases (BigQuery, SnowFlake, PostgreSQL, etc. Also other clients used the streaming API of Tinybird and I've developed a python benchmark to check the ingestion limits simulating a specific load environment.
+Tipycally the workflow is: batching out data from Snowflake or PostgreSQL or using topics from kafka, into Tinybird (ClickHouse) and preparing different endpoints to query the data in real time. The batches were managed with GitHub actions (some every minute, others every day depending on the operational needs of the client) using the tinybird's CLI tool that has different connectors for different databases (BigQuery, SnowFlake, PostgreSQL, etc). Also other clients used the streaming API of Tinybird and I've written a python benchmark to check the ingestion limits simulating a specific load environment.
 
 I contribute to the product by doing some PRs to fix some issues detected working with the clients and helped with the content of some blog posts about ClickHouse. 
 
 The main tooling I use is SQL, Python, Tinybird API and CLI and ClickHouse, with Google Cloud and Ansible for deployments
 
-**Dec.2001–Jun2021 | Engineer/Analyst, Galicia Supercomputing Center (CESGA)**
+**Jan2002–Feb.2021 | Engineer/Analyst, Galicia Supercomputing Center (CESGA)**
 
 Since I moved to CESGA I've been using the latest tech and applying it to many projects, for example helping with the benchmarking and deployment of the first version of the CESGA's Hadoop cluster for scientists in 2012 that evolved to https://bigdata.cesga.es
 
-In terms of computing, networking and storage infrastructure, CESGA runs its own datacenter so we built what we need using our computing and networking resources.
+In terms of computing, networking and storage infrastructure, CESGA runs its own datacenter so we built what we needed using our computing and networking resources (OpenStack & CloudStack & OpenNebula).
 
 I've been working 15+ years at CESGA with many talented colleagues from different areas (networking, computing, apps ...) developing many activities and projects while managing the technical team of the e-learning area. Some remarkable ones:
 
 * Design and implementation of backend infrastructures with different OSS technologies and tools for CESGA's main services: 
 
   * *GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastructure sysadmin/DBA*: due to my strong background in RDBMSs (+1TB storage). Many of CESGA's services (like the ones described next), projects and critical infrastructure (Accounting for HPC resources) share both of these backends: 
-      * I write shell or python scripts to automate some monitorization metrics, database backups or sysadmin stuff and sometimes I have to update or add new stuff to them. 
-      * Also I help users to model E/R schemas to incorporate their datasets
-      * Tune/rewrite their queries
-      * Solve performance issues or write ETL pipelines in PL/pgSQL or Python.
+      * I wrote shell or python scripts to automate some monitorization metrics (Zabbix and Nagios), database backups or sysadmin stuff and sometimes I have to update or add new stuff to them. 
+      * Also I helped users to model E/R schemas to incorporate their datasets.
+      * Tune/rewrite their queries.
+      * Solved performance issues or wrote ETL pipelines in PL/pgSQL or Python (Airflow)
 
     You can check my github repo with some configurations I documented, a failover script in Python and some backup shell scripts. I had to anonymize the code and pushed it to github from a private gitlab repo:
 
     * [pgpool-clusterconfig](https://github.com/lesandie/pgpool-clusterconfig)
     * [pgpool-failover](https://github.com/lesandie/pgpool-failover)
 
-  * *Videoconference and Streaming scalable service infrastructure admin (Jitsi & BigBlueButton) https://seminar.cesga.es & https://meet.srv.cesga.es (150+ users)*.
+  * *Videoconference and Streaming scalable service infrastructure admin (Jitsi & BigBlueButton) https://seminar.cesga.es & https://meet.srv.cesga.es (150+ users)*
 
   * *Chamilo scalable VLE service sysadmin/devops (https://aula.cesga.es) (10K users)*. In the e-Learnig area we also run a helpdesk to receive emails wih problems from users and to solve them, just pointing them out how to interact with the webapp to do some tasks, or in case of a bug, solve it and push the fix to our private gitlab repo. When we have time, we try to PR our corrections and new functionalities into the [Chamilo](https://github.com/chamilo/chamilo-lms) public repo.
 
@@ -76,12 +76,6 @@ I've been working 15+ years at CESGA with many talented colleagues from differen
   * [GeoForsk](http://www.geoforsk.com): configuring and managing their ShinyProxy Docker infrastructure with some dataops stuff.
   
   * [Project Djehuty](http://www.excavacionegipto.com/): The excavation team uses a hardened Raspberrypi4 in AP mode with a PostgreSQL11 instance. They use a Qgis template specially designed to map all the tomb layout and objects they find during the excavation process. When they bring back the "raspi4" I import all the data into the main cluster at CESGA's premises.
-
-* Developing IT and R&D projects at European, National and Regional level, with partners such as both public institutions and private companies (20+ projects), mainly for the [e-Learning Area](https://e-learning.cesga.es). These projects were focused on applying the latest tech and tools in different learning environments and helping the educational and academic community to improve their pedagogical and learning processes.
-
-  * [AR-Sci Project](https://ar-sci.cesga.es): Using AR tools to boost learning at Primary and Secondary Schools. VR tech was booming in that particular time and many educational institutions asked us to build some prototypes and learning materials that were piloted in live lectures and classrooms. (UK, DK, NO, ES). 
-
-  * [Boats4Schools Project](http://boats4schools.eu/index.php/home-page-2/): We helped primary and secondary school teachers to develop the STEM capabilities of their students by designing and creating their own robotic ships (using CAD, SBCs like arduino and 3D Printers) and organizing an international challenge (ES, PT, IT) to select the best design and test it in a racing event. A very funny and enjoyable experience.
 
 **Mar.2001-Dec.2001 | Sales support eng./consultant, Ascential Software, Madrid, Spain**
 
