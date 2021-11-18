@@ -28,7 +28,7 @@ If I have to choose a set of labels for my work they would be: data/database eng
 Final Degree Project: Developed a front-end interface written in tcl/tk for the debian package manager (dpkg). It used the alien tool (https://joeyh.name/code/alien/) to convert packages between formats (.tgz, .rpm, .deb). 
 
 **2004-2007 MSc in Data engineering** <br>
-**Computer Science Joint PhD Programme**<br>
+**Computer Science Joint PhD Programme** <br>
 **[Santiago de Compostela](https://usc.es) & [A Coruña](https://www.udc.es) Universities**<br>
 
 [Project MORFEO (Spanish)](https://github.com/lesandie/md-cv/blob/main/almacen.pdf): Designed and implemented a datawarehouse for storing and analyzing data from patients with Cardio-Respiratory Sleep Disorders. In terms of data management and ETL, I had to deal with different types of data, from basic tests like a Glasgow Scale to binary files from a polysomnography and came up with a design based on Kimball's approach to analyze and study all the data in an OLAP way using Oracle 10g, with the possibility of using datamining techniques. I published an article at a national level congress (CASEIB2006 http://www.unavarra.es/caseib2006/Download/abstracts.pdf) that was a summary of the main work.
@@ -124,6 +124,6 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 * Some problem solving skills:
   * Using the analytics platform [Tinybird](https://tinybird.co) at my repo [tinybird_nyc_taxi](https://github.com/lesandie/tinybird_nyc_taxi)
-  * Python scripting for a job application at [Spartacommodities](https://spartacommodities.com) at another repo [sparta](https://github.com/lesandie/sparta)
+  * Python scripting for outliers detection [python-outliers](https://github.com/lesandie/[python-outliers])
 
 * (2018-2020) I was temporal university lecturer at the USCs [International PhD School](https://www.usc.gal/en/center/international-phd-school-university-santiago-compostela-edius), teaching text image processing with tesseract.
