@@ -107,7 +107,7 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 * Sys/infra:
   * System Administration level in Linux
   * Docker
-  * Kubernetes (learning)
+  * Kubernetes (basic)
 * Languages:
   * Galician - Native
   * Spanish - Native
