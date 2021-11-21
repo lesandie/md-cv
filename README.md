@@ -108,6 +108,7 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
   * System Administration level in Linux
   * Docker
   * Kubernetes (basic)
+  * Ansible
 * Languages:
   * Galician - Native
   * Spanish - Native
@@ -124,6 +125,7 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 * Some problem solving skills:
   * Using the analytics platform [Tinybird](https://tinybird.co) at my repo [tinybird_nyc_taxi](https://github.com/lesandie/tinybird_nyc_taxi)
-  * Python scripting for outliers detection [python-outliers](https://github.com/lesandie/[python-outliers])
+  * Python scripting for outliers detection [python-outliers](https://github.com/lesandie/python-outliers)
+  * Simple flask web app example and deployment to Google Cloud [flask-app](https://github.com/lesandie/flask-app)
 
 * (2018-2020) I was temporal university lecturer at the USCs [International PhD School](https://www.usc.gal/en/center/international-phd-school-university-santiago-compostela-edius), teaching text image processing with tesseract.
