@@ -42,7 +42,7 @@ Tipycally the workflow is: batching out data from Snowflake or PostgreSQL or usi
 
 I contribute to the product by doing some PRs to fix some issues detected working with the clients and helped with the content of some blog posts about ClickHouse. 
 
-The main tooling I use is SQL, Python, Tinybird API and CLI and ClickHouse, with Google Cloud and Ansible for deployments
+The main tooling I use is SQL, Python, Tinybird API & CLI, ClickHouse, Google Cloud and Ansible for deployments.
 
 **Jan2002–Feb.2021 | Engineer/Analyst, Galicia Supercomputing Center (CESGA)**
 
@@ -54,7 +54,7 @@ I've been working 15+ years at CESGA with many talented colleagues from differen
 
 * Design and implementation of backend infrastructures with different OSS technologies and tools for CESGA's main services: 
 
-  * *GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastructure sysadmin/DBA*: due to my strong background in RDBMSs (+1TB storage). Many of CESGA's services (like the ones described next), projects and critical infrastructure (Accounting for HPC resources) share both of these backends: 
+  * *GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastructure sysadmin/DBA*: due to my strong background in RDBMSs (nearly 10TB storage). Many of CESGA's services (like the ones described next), projects and critical infrastructure (Accounting for HPC resources) share both of these backends: 
       * I wrote shell or python scripts to automate some monitorization metrics (Zabbix and Nagios), database backups or sysadmin stuff and sometimes I have to update or add new stuff to them. 
       * Also I helped users to model E/R schemas to incorporate their datasets.
       * Tune/rewrite their queries.
