@@ -35,7 +35,7 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 
 ## Experience
 
-**Ago2021–Now | Data Engineer, [Tinybird](https://tinybird.co)**
+**Ago2021–Dec2021 | Data Engineer, [Tinybird](https://tinybird.co)**
 
 I work in a real time analytics environment, solving issues and adding new features to ETL pipelines and API endpoints for clients. 
 Tipycally the workflow is: batching out data from Snowflake or PostgreSQL or using topics from kafka, into Tinybird (ClickHouse) and preparing different endpoints to query the data in real time. The batches were managed with GitHub actions (some every minute, others every day depending on the operational needs of the client) using the tinybird's CLI tool that has different connectors for different databases (BigQuery, SnowFlake, PostgreSQL, etc). Also other clients used the streaming API of Tinybird and I've written a python benchmark to check the ingestion limits simulating a specific load environment.
