@@ -13,11 +13,11 @@
 [//]: # (Para insertar una imagen <img src="cv.jpg" alt="cv" width="200"/><br>) 
 
 I was born in the 8-bit era and grew up with a 128KB spectrum and then an AMIGA 500. I learned to program BASIC at the age of 12 and sudenly I was playing arcade games, SNES and Megadrive until I went to college to study computer science in the 90s: learnt Assembler, C, C ++, JAVA or SQL and then unknown Linux. The first distro I installed was a Slackware.
-I have worked in companies such as Sun Microsystems, Informix software or Ascential until I went to the public sector in 2002 to work for [CESGA (Galicia Supercomputing Center)](https://www.cesga.es). I currently work for [Tinybird](https://tinybird.co).
+I have worked in companies such as Sun Microsystems or Informix software until I went to the public sector in 2002 to work for [CESGA (Galicia Supercomputing Center)](https://www.cesga.es). Then I switched again to the private sector to work for [Tinybird](https://tinybird.co).
 
 I like to read, walk and enjoy a good day with my wife and kids. Continuous learning is in my DNA, and as a geek I value technology as a tool to improve our lives and change the world.
 
-During my long experience I touched a lot of technologies, languages and paradigms, some still around, but my interests and skills are bet on DBMSs, SQL, PL/pgSQL, Python and sysadmin stuff, in which I have a strong technical background and experience. 
+During my long experience I touched a lot of technologies, languages and paradigms, some still around, but my interests and skills are bet on DBMSs, SQL, PL/pgSQL, Python and sysadmin stuff, in which I have a strong technical background and experience.
 
 If I have to choose a set of labels for my work they would be: data/database engineer with a pinch of sales support and data analyst: Understand business goals and technical requirements and turn complex problems into understandable, achievable solutions.
 
@@ -25,7 +25,7 @@ If I have to choose a set of labels for my work they would be: data/database eng
 
 **1994-1999: BSc, Computer Science Engineering, Deusto University** <br>
 
-Final Degree Project: Developed a front-end interface written in tcl/tk for the debian package manager (dpkg). It used the alien tool (https://joeyh.name/code/alien/) to convert packages between formats (.tgz, .rpm, .deb). 
+Final Degree Project: Developed a front-end interface written in tcl/tk for the debian package manager (dpkg). It used the alien tool (https://joeyh.name/code/alien/) to convert packages between formats (.tgz, .rpm, .deb).
 
 **2004-2007 MSc in Data engineering** <br>
 **Computer Science Joint PhD Programme** <br>
@@ -35,14 +35,14 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 
 ## Experience
 
-**Ago2021–Dec2021 | Data Engineer, [Tinybird](https://tinybird.co)**
+**Jul2021–Dec2021 | Data Engineer, [Tinybird](https://tinybird.co)**
 
-I work in a real time analytics environment, solving issues and adding new features to ETL pipelines and API endpoints for clients. 
+I worked in a real time analytics environment, solving issues and adding new features to ETL pipelines and API endpoints for clients.
 Tipycally the workflow is: batching out data from Snowflake or PostgreSQL or using topics from kafka, into Tinybird (ClickHouse) and preparing different endpoints to query the data in real time. The batches were managed with GitHub actions (some every minute, others every day depending on the operational needs of the client) using the tinybird's CLI tool that has different connectors for different databases (BigQuery, SnowFlake, PostgreSQL, etc). Also other clients used the streaming API of Tinybird and I've written a python benchmark to check the ingestion limits simulating a specific load environment.
 
-I contribute to the product by doing some PRs to fix some issues detected working with the clients and helped with the content of some blog posts about ClickHouse. 
+I contributed to the product by doing some PRs to fix some issues detected working with the clients and helped with the content of some blog posts about ClickHouse.
 
-The main tooling I use is SQL, Python, Tinybird API & CLI, ClickHouse, Google Cloud and Ansible for deployments.
+The main tooling I used was SQL, Python, Tinybird API & CLI, ClickHouse, Google Cloud and Ansible for deployments.
 
 **Jan2002–Feb.2021 | Engineer/Analyst, Galicia Supercomputing Center (CESGA)**
 
@@ -52,10 +52,10 @@ In terms of computing, networking and storage infrastructure, CESGA runs its own
 
 I've been working 15+ years at CESGA with many talented colleagues from different areas (networking, computing, apps ...) developing many activities and projects while managing the technical team of the e-learning area. Some remarkable ones:
 
-* Design and implementation of backend infrastructures with different OSS technologies and tools for CESGA's main services: 
+* Design and implementation of backend infrastructures with different OSS technologies and tools for CESGA's main services:
 
-  * *GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastructure sysadmin/DBA*: due to my strong background in RDBMSs (nearly 10TB storage). Many of CESGA's services (like the ones described next), projects and critical infrastructure (Accounting for HPC resources) share both of these backends: 
-      * I wrote shell or python scripts to automate some monitorization metrics (Zabbix and Nagios), database backups or sysadmin stuff and sometimes I have to update or add new stuff to them. 
+  * *GaleraDB and PostgreSQL/PostGIS/TimescaleDB cluster infrastructure sysadmin/DBA*: due to my strong background in RDBMSs (nearly 10TB storage). Many of CESGA's services (like the ones described next), projects and critical infrastructure (Accounting for HPC resources) share both of these backends:
+      * I wrote shell or python scripts to automate some monitorization metrics (Zabbix and Nagios), database backups or sysadmin stuff and sometimes I have to update or add new stuff to them.
       * Also I helped users to model E/R schemas to incorporate their datasets.
       * Tune/rewrite their queries.
       * Solved performance issues or wrote ETL pipelines in PL/pgSQL or Python (Airflow)
@@ -84,7 +84,7 @@ My work mainly was the design, implementation and exploitation of data warehouse
 
 **Mar.2000-Mar2001 | Sales support eng./consultant, Informix Software, Madrid, Spain**
 
-HQ was in Madrid, but I was based in Santiago de Compostela working mainly with local clients but sometimes I had to travel to other spanish areas. 
+HQ was in Madrid, but I was based in Santiago de Compostela working mainly with local clients but sometimes I had to travel to other spanish areas.
 Worked with Informix database technology and Informix content management solutions (iReach, Media360), for customers like Xunta de Galicia, Altia, Oviedo University, Tele5 and also doing some training sessions at on-site clients. Later that year IBM acquired Informix database business and some former Informix employees stayed at the renamed company: Ascential.
 
 **Feb.1999-Feb.2000 | Engineer, Sun Microsystems, Bilbao, Spain**
@@ -119,7 +119,7 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 * I'm a selfhoster with many IoT, sensors, 3D-Printer, raspberries and HomeAssistant stuff at home. I run my own network (OpenWrt), storage & monitoring (collectd/prometheus/influxdb/timescaledb/grafana) infrastructure and sometimes I consult to customers and local SMEs. You can check my website [https://www.dnieto-it.es](https://www.dnieto-it.es) (Spanish)
 
-* I sometimes get hired for training sessions of PostgreSQL best practices (spanish). [Guia PostgreSQL](https://github.com/lesandie/guia-postgres)
+* I've crafted a guide of PostgreSQL Admin. with all my experience and knowledge (spanish). [Guia PostgreSQL](https://github.com/lesandie/guia-postgres)
 
 * I've developed a PostGIS backend for a Qgis project template, written in PL/pgSQL and using many capabilities of a PostgreSQL engine like materialized views, triggers and functions. You can check the code and rationale at [postgis-backend](https://github.com/lesandie/postgis-backend) in my github public repo. Again I had to anonymize the code and push it to a public repo.
 
