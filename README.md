@@ -102,12 +102,12 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 * Data/ETL:
   * PL/pgSQL
   * SQL
-  * Apache airflow (basic)
+  * Apache airflow
   * DBA Level in PostgreSQL & MariaDB
 * Sys/infra:
   * System Administration level in Linux
   * Docker
-  * Kubernetes (basic)
+  * Kubernetes
   * Ansible
 * Languages:
   * Galician - Native
