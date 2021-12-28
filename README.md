@@ -13,7 +13,7 @@
 [//]: # (Para insertar una imagen <img src="cv.jpg" alt="cv" width="200"/><br>) 
 
 I was born in the 8-bit era and grew up with a 128KB spectrum and then an AMIGA 500. I learned to program BASIC at the age of 12 and sudenly I was playing arcade games, SNES and Megadrive until I went to college to study computer science in the 90s: learnt Assembler, C, C ++, JAVA or SQL and then unknown Linux. The first distro I installed was a Slackware.
-I have worked in companies such as Sun Microsystems or Informix software until I went to the public sector in 2002 to work for [CESGA (Galicia Supercomputing Center)](https://www.cesga.es). Then I switched again to the private sector to work for [Tinybird](https://tinybird.co).
+I have worked in companies such as Sun Microsystems or Informix software until I went to the public sector in 2002 to work for [CESGA (Galicia Supercomputing Center)](https://www.cesga.es). Then I switched again to the private sector to work for [Tinybird](https://tinybird.co). Now I'm working for [Triple](https://jointriple.com).
 
 I like to read, walk and enjoy a good day with my wife and kids. Continuous learning is in my DNA, and as a geek I value technology as a tool to improve our lives and change the world.
 
@@ -35,7 +35,7 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 
 ## Experience
 
-**Jul2021–Dec2021 | Data Engineer, [Tinybird](https://tinybird.co)**
+**Ago2021–Dec2021 | Data Engineer, [Tinybird](https://tinybird.co)**
 
 I worked in a real time analytics environment, solving issues and adding new features to ETL pipelines and API endpoints for clients.
 Tipycally the workflow is: batching out data from Snowflake or PostgreSQL or using topics from kafka, into Tinybird (ClickHouse) and preparing different endpoints to query the data in real time. The batches were managed with GitHub actions (some every minute, others every day depending on the operational needs of the client) using the tinybird's CLI tool that has different connectors for different databases (BigQuery, SnowFlake, PostgreSQL, etc). Also other clients used the streaming API of Tinybird and I've written a python benchmark to check the ingestion limits simulating a specific load environment.
@@ -44,7 +44,7 @@ I contributed to the product by doing some PRs to fix some issues detected worki
 
 The main tooling I used was SQL, Python, Tinybird API & CLI, ClickHouse, Google Cloud and Ansible for deployments.
 
-**Jan2002–Feb.2021 | Engineer/Analyst, Galicia Supercomputing Center (CESGA)**
+**Jan2002–Dec2020 | Engineer/Analyst, Galicia Supercomputing Center (CESGA)**
 
 Since I moved to CESGA I've been using the latest tech and applying it to many projects, for example helping with the benchmarking and deployment of the first version of the CESGA's Hadoop cluster for scientists in 2012 that evolved to https://bigdata.cesga.es
 
