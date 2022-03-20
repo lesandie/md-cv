@@ -36,13 +36,13 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 ## Experience
 
 
-**Jan2022-currently | SoftwareEngineer, [TRIPLE](https://jointriple.com)**
+**Jan2022-currently | Software Engineer, [TRIPLE](https://jointriple.com)**
 
 I work for a fintech company with a payment data platform used by different merchants and banks to craft reward programs to their customers with automated payment driven events.
 My role is with the Integrations squad, hearing our client needs and transforming them into new features in our API. Also I improve and maintain our clients integration data pipelines, plus instrumenting them to achieve observability. Our stack is GCP based with React, Django, opentelemetry, statsd, postgres, kubernetes, pub/sub, airflow and terraform.
 
 
-**Ago2021–Dec2021 | Data Engineer, [Tinybird](https://tinybird.co)**
+**Jul2021–Dec2021 | Data Engineer, [Tinybird](https://tinybird.co)**
 
 I worked in a real time analytics environment, solving issues and adding new features to ETL pipelines and API endpoints for clients.
 Tipycally the workflow is: batching out data from Snowflake or PostgreSQL or using topics from kafka, into Tinybird (ClickHouse) and preparing different endpoints to query the data in real time. The batches were managed with GitHub actions (some every minute, others every day depending on the operational needs of the client) using the tinybird's CLI tool that has different connectors for different databases (BigQuery, SnowFlake, PostgreSQL, etc). Also other clients used the streaming API of Tinybird and I've written a python benchmark to check the ingestion limits simulating a specific load environment.
@@ -71,10 +71,6 @@ I've been working 15+ years at CESGA with many talented colleagues from differen
 
     * [pgpool-clusterconfig](https://github.com/lesandie/pgpool-clusterconfig)
     * [pgpool-failover](https://github.com/lesandie/pgpool-failover)
-
-  * *Videoconference and Streaming scalable service infrastructure admin (Jitsi & BigBlueButton) https://seminar.cesga.es & https://meet.srv.cesga.es (150+ users)*
-
-  * *Chamilo scalable VLE service sysadmin/devops (https://aula.cesga.es) (10K users)*. In the e-Learnig area we also run a helpdesk to receive emails wih problems from users and to solve them, just pointing them out how to interact with the webapp to do some tasks, or in case of a bug, solve it and push the fix to our private gitlab repo. When we have time, we try to PR our corrections and new functionalities into the [Chamilo](https://github.com/chamilo/chamilo-lms) public repo.
 
   * *Nextcloud scalable service infrastructure sysadmin* (https://cumulo.cesga.es) (200+ users).
 
