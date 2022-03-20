@@ -39,7 +39,7 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 **Jan2022-currently | SoftwareEngineer, [TRIPLE](https://jointriple.com)**
 
 I work for a fintech company with a payment data platform used by different merchants and banks to craft reward programs to their customers with automated payment driven events.
-My role is with the Integrations squad, hearing our client needs and transforming them into new features in our API. Also I improve and maintain our clients integration data pipelines. Our stack is GCP based with React, Django, postgres, kubernetes, pub/sub, airflow and terraform.
+My role is with the Integrations squad, hearing our client needs and transforming them into new features in our API. Also I improve and maintain our clients integration data pipelines, plus instrumenting them to achieve observability. Our stack is GCP based with React, Django, opentelemetry, statsd, postgres, kubernetes, pub/sub, airflow and terraform.
 
 
 **Ago2021–Dec2021 | Data Engineer, [Tinybird](https://tinybird.co)**
