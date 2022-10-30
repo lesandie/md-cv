@@ -3,7 +3,6 @@
 
 ## Profile
 
-* **Birth date**: 04/04/1976
 * **Email**: dnieto@gmail.com
 * **Web (in spanish)**: https://www.dnieto-it.es
 * **GitHub**: https://github.com/lesandie
@@ -13,13 +12,13 @@
 [//]: # (Para insertar una imagen <img src="cv.jpg" alt="cv" width="200"/><br>) 
 
 I was born in the 8-bit era and grew up with a 128KB spectrum and then an AMIGA 500. I learned to program BASIC at the age of 12 and sudenly I was playing arcade games, SNES and Megadrive until I went to college to study computer science in the 90s: learnt Assembler, C, C ++, JAVA or SQL and then unknown Linux. The first distro I installed was a Slackware.
-I have worked in companies such as Sun Microsystems or Informix software until I went to the public sector in 2002 to work for [CESGA (Galicia Supercomputing Center)](https://www.cesga.es). Then I switched again to the private sector to work for [Tinybird](https://tinybird.co). Now I'm working for [Triple](https://jointriple.com).
+I have worked in companies such as Sun Microsystems or Informix software until I went to the public sector in 2002 to work for [CESGA (Galicia Supercomputing Center)](https://www.cesga.es). Then I switched again to the private sector to work for startups like [Tinybird](https://tinybird.co) or [Triple](https://jointriple.com), and now I'm working for [Altinity](http://altinity.com)
 
 I like to read, walk and enjoy a good day with my wife and kids. Continuous learning is in my DNA, and as a geek I value technology as a tool to improve our lives and change the world.
 
 During my long experience I touched a lot of technologies, languages and paradigms, some still around, but my interests and skills are bet on DBMSs, SQL, PL/pgSQL, Python and sysadmin stuff, in which I have a strong technical background and experience.
 
-If I have to choose a set of labels for my work they would be: data/database engineer with a pinch of sales support and data analyst: Understand business goals and technical requirements and turn complex problems into understandable, achievable solutions.
+If I have to choose a set of labels for my work they would be: data/database engineer, backend dev and data analyst: Understand business goals and technical requirements and turn complex problems into understandable, achievable solutions.
 
 ## Education
 
@@ -35,11 +34,13 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 
 ## Experience
 
+**Jul2022-now() | Software Engineer [Altinity](https://altinity.com)**
 
-**Jan2022-currently | Software Engineer, [TRIPLE](https://jointriple.com)**
+Data startup specialized in ClickHouse OLAP Database. Working for the Support team, analyzing customer needs and problems related with their ClickHouse infraestructure and helping them to deploy. Also sharing tasks with other groups like Dev and Cloud, coding admin tools (data migration and audit collection tools) for [Altinity.cloud](http://altinity.cloud) platform. I've also PR some stuff for [ClickHouse](http://github.com/ClickHouse/ClickHouse) like bugfixes, documentation improvements, tests ... etc.
 
-I work for a fintech company with a payment data platform used by different merchants and banks to craft reward programs to their customers with automated payment driven events.
-My role is with the Integrations squad, hearing our client needs and transforming them into new features in our API. Also I improve and maintain our clients integration data pipelines, plus instrumenting them to achieve observability. Our stack is GCP based with React, Django, opentelemetry, statsd, postgres, kubernetes, pub/sub, airflow and terraform.
+**Jan2022-Jul2022 | Software Engineer, [TRIPLE](https://jointriple.com)**
+
+A fintech startup with a payment data platform used by different merchants and banks to craft reward programs to their customers with automated payment driven events. My role was with the Integrations squad, hearing client needs and transforming them into new features in the payment API. Also I improved and maintain clients' integration data pipelines, plus instrumenting them to achieve observability. Stack was GCP based with React, Django, opentelemetry, statsd, Postgres, kubernetes, pub/sub, airflow and terraform.
 
 
 **Jul2021–Dec2021 | Data Engineer, [Tinybird](https://tinybird.co)**
