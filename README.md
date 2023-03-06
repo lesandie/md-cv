@@ -54,7 +54,7 @@ I contributed to the product by doing some PRs to fix some issues detected worki
 
 The main tooling I used was SQL, Python, Tinybird API & CLI, ClickHouse, Google Cloud and Ansible for deployments.
 
-**Jan2002–Dec2020 | Engineer/Analyst, Galicia Supercomputing Center (CESGA)**
+**Jan2002–Dec2020 | Engineer/Analyst, [Galicia Supercomputing Center (CESGA)](https://www.cesga.es)**
 
 Since I moved to CESGA I've been using the latest tech and applying it to many projects, for example helping with the benchmarking and deployment of the first version of the CESGA's Hadoop cluster for scientists in 2012 that evolved to https://bigdata.cesga.es
 
