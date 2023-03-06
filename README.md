@@ -12,7 +12,7 @@
 [//]: # (Para insertar una imagen <img src="cv.jpg" alt="cv" width="200"/><br>) 
 
 I was born in the 8-bit era and grew up with a 128KB spectrum and then an AMIGA 500. I learned to program BASIC at the age of 12 and sudenly I was playing arcade games, SNES and Megadrive until I went to college to study computer science in the 90s: learnt Assembler, C, C ++, JAVA or SQL and then unknown Linux. The first distro I installed was a Slackware.
-I have worked in companies such as Sun Microsystems or Informix software until I went to the public sector in 2002 to work for [CESGA (Galicia Supercomputing Center)](https://www.cesga.es). Then I switched again to the private sector to work for startups, now working for [Altinity](http://altinity.com)
+I have worked in companies such as Sun Microsystems or Informix software until I went to the public sector in 2002 to work for `CESGA (Galicia Supercomputing Center)`. Then I switched again to the private sector to work for startups, now working for `Altinity`
 
 I like to read, walk and enjoy a good day with my wife and kids. Continuous learning is in my DNA, and as a geek I value technology as a tool to improve our lives and change the world.
 
@@ -34,7 +34,7 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 
 ## Experience
 
-**Jul2022-now() | Software Engineer [Altinity](https://altinity.com)**
+**Jul2022-now() | Software Engineer, [Altinity](https://altinity.com)**
 
 Data startup specialized in ClickHouse OLAP Database. Working for the Support team, analyzing customer needs, problems and helping them to solve issues with deployments on both altinity.cloud service (k8s) and on-prem. Also sharing tasks with other groups like Dev and Cloud, coding admin tools (data migration  and audit collection tools) for [Altinity.cloud](http://altinity.cloud) platform, writting blog articles... 
 
