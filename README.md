@@ -16,7 +16,7 @@ I have worked in companies such as Sun Microsystems or Informix software until I
 
 I like to read, walk and enjoy a good day with my wife and kids. Continuous learning is in my DNA, and as a geek I value technology as a tool to improve our lives and change the world.
 
-During my long experience I touched a lot of technologies, languages and paradigms, some still around, but my interests and skills are bet on DBMSs, SQL, PL/pgSQL, Python and sysadmin stuff, in which I have a strong technical background and experience.
+During my long experience I touched a lot of technologies, languages and paradigms, some still around, but my interests and skills are bet on DBMSs, SQL, Python and sysadmin stuff, in which I have a strong technical background and experience.
 
 If I have to choose a set of labels for my work they would be: data/database engineer and backend dev: Understand business goals and technical requirements and turn complex problems into understandable, achievable solutions.
 
