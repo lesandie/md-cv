@@ -104,18 +104,18 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 * Programming:
   * Python
   * Shell Scripting
-  * C++ (refreshing)
-  * Rust (learning)
+  * C++
+  * Rust
 * Data/ETL:
   * PL/pgSQL
   * SQL
   * Apache airflow
-  * DBA Level in PostgreSQL & MariaDB
+  * DBA Level in ClickHouse & PostgreSQL
 * Sys/infra:
   * System Administration level in Linux
   * Docker
   * Kubernetes
-  * Ansible
+  * Terraform
 * Languages:
   * Galician - Native
   * Spanish - Native
