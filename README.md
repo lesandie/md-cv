@@ -16,7 +16,7 @@ I have worked in companies such as Sun Microsystems or Informix software until I
 
 I like to read, walk and enjoy a good day with my wife and kids. Continuous learning is in my DNA, and as a geek I value technology as a tool to improve our lives and change the world.
 
-During my long experience I touched a lot of technologies, languages and paradigms, some still around, but my interests and skills are bet on DBMSs, SQL, Python and sysadmin stuff, in which I have a strong technical background and experience.
+During my long experience I touched a lot of technologies, languages and paradigms, some still around, but my interests and skills are bet on Databases, SQL, Python and sysadmin stuff, in which I have a strong technical background and experience.
 
 If I have to choose a set of labels for my work they would be: data/database engineer and backend dev: Understand business goals and technical requirements and turn complex problems into understandable, achievable solutions.
 
@@ -36,19 +36,21 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 
 **Jul2022-now() | Software Engineer, [Altinity](https://altinity.com)**
 
-Data startup specialized in ClickHouse OLAP Database. Working for the Support team, analyzing customer needs, problems and helping them to solve issues with deployments on both altinity.cloud service (k8s) and on-prem. Also sharing tasks with other groups like Dev and Cloud, coding admin tools (data migration  and audit collection tools) for [Altinity.cloud](http://altinity.cloud) platform, writting blog articles... 
+Data startup specialized in ClickHouse OLAP Database and real time analytics. Working for the Support team, analyzing customer needs, problems and helping them to solve issues with deployments on both altinity.cloud service (k8s) and on-prem using the [clickhouse-operator](https://github.com/Altinity/clickhouse-operator). Also sharing tasks with other groups like Dev and Cloud, coding admin tools (data migration and audit collection tools) for [Altinity.cloud](http://altinity.cloud) platform, writting blog articles... 
 
-I've also PR some stuff for [ClickHouse](http://github.com/ClickHouse/ClickHouse) like bugfixes, documentation improvements, tests ...
+I've also contributed to some stuff for [ClickHouse](https://github.com/ClickHouse/ClickHouse/issues?q=is%3Aissue+author%3Alesandie) like bugfixes, documentation improvements, tests ...
+
+Stack: ClickHouse, PostgreSQL, Python, C++, kubernetes, opentelemetry, grafana, Kafka, Redpanda, RabbbitMQ, airflow, Zookeeper ... 
 
 **Jan2022-Jul2022 | Software Engineer, [TRIPLE](https://jointriple.com)**
 
-A fintech startup with a payment data platform used by different merchants and banks to craft reward programs to their customers with automated payment driven events. My role was with the Integrations squad, hearing client needs and transforming them into new features in the payment API. Also I improved and maintain clients' integration data pipelines, plus instrumenting them to achieve observability. Stack was GCP based with React, Django, opentelemetry, statsd, Postgres, kubernetes, pub/sub, airflow and terraform.
+A fintech startup with a payment data platform used by different merchants and banks to craft reward programs to their customers with automated payment driven events. My role was with the Integrations squad, hearing client needs and transforming them into new features in the payment API. Also I improved and maintained integration data pipelines, plus instrumenting it to achieve observability. Stack was GCP based with React, Django, opentelemetry, statsd, Postgres, kubernetes, pub/sub, airflow and terraform.
 
 
 **Jul2021–Dec2021 | Data Engineer, [Tinybird](https://tinybird.co)**
 
 I worked in a real time analytics environment, solving issues and adding new features to ETL pipelines and API endpoints for clients.
-Tipycally the workflow is: batching out data from Snowflake or PostgreSQL or using topics from kafka, into Tinybird (ClickHouse) and preparing different endpoints to query the data in real time. The batches were managed with GitHub actions (some every minute, others every day depending on the operational needs of the client) using the tinybird's CLI tool that has different connectors for different databases (BigQuery, SnowFlake, PostgreSQL, etc). Also other clients used the streaming API of Tinybird and I've written a python benchmark to check the ingestion limits simulating a specific load environment.
+Tipycally the workflow was: batching out data from Snowflake or PostgreSQL or using topics from kafka, into Tinybird (ClickHouse) and preparing different endpoints to query the data in real time. The batches were managed with GitHub actions (some every minute, others every day depending on the operational needs of the client) using the tinybird's CLI tool that has different connectors for different databases (BigQuery, SnowFlake, PostgreSQL, etc). Also other clients used the streaming API of Tinybird and I've written a python benchmark to check the ingestion limits simulating a specific load environment.
 
 I contributed to the product by doing some PRs to fix some issues detected working with the clients and helped with the content of some blog posts about ClickHouse.
 
@@ -60,7 +62,7 @@ Since I moved to CESGA I've been using the latest tech and applying it to many p
 
 In terms of computing, networking and storage infrastructure, CESGA runs its own datacenter so we built what we needed using our computing and networking resources (OpenStack & CloudStack & OpenNebula).
 
-I've been working 15+ years at CESGA with many talented colleagues from different areas (networking, computing, apps ...) developing many activities and projects while managing the technical team of the e-learning area. Some remarkable ones:
+I've have worker 15+ years at CESGA with many talented colleagues from different areas (networking, computing, apps ...) developing many activities and projects while managing the technical team of the e-learning area. Some remarkable ones:
 
 * Design and implementation of backend infrastructures with different OSS technologies and tools for CESGA's main services:
 
@@ -70,7 +72,7 @@ I've been working 15+ years at CESGA with many talented colleagues from differen
       * Tune/rewrite their queries.
       * Solved performance issues or wrote ETL pipelines in PL/pgSQL or Python (Airflow)
 
-    You can check my github repo with some configurations I documented, a failover script in Python and some backup shell scripts. I had to anonymize the code and pushed it to github from a private gitlab repo:
+    You can check some tooling I did from my github repo.
 
     * [pgpool-clusterconfig](https://github.com/lesandie/pgpool-clusterconfig)
     * [pgpool-failover](https://github.com/lesandie/pgpool-failover)
@@ -80,8 +82,7 @@ I've been working 15+ years at CESGA with many talented colleagues from differen
 * Helping different Universities research groups and spin-offs to setup and use the different cloud/computing infrastructures at CESGA.
   
   * [GeoForsk](http://www.geoforsk.com): configuring and managing their ShinyProxy Docker infrastructure with some dataops stuff.
-  
-  * [Project Djehuty](http://www.excavacionegipto.com/): The excavation team uses a hardened Raspberrypi4 in AP mode with a PostgreSQL11 instance. They use a Qgis template specially designed to map all the tomb layout and objects they find during the excavation process. When they bring back the "raspi4" I import all the data into the main cluster at CESGA's premises.
+  * [Project Djehuty](http://www.excavacionegipto.com/): The excavation team uses a hardened Raspberrypi4 in AP mode with a PostgreSQL11 instance. They use a Qgis template specially designed to map all the tomb layout and objects they find during the excavation process.
 
 **Mar.2001-Dec.2001 | Sales support eng./consultant, Ascential Software, Madrid, Spain**
 
@@ -127,11 +128,10 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 * I've crafted a guide of PostgreSQL Admin. with all my experience and knowledge (spanish). [Guia PostgreSQL](https://github.com/lesandie/guia-postgres)
 
-* I've developed a PostGIS backend for a Qgis project template, written in PL/pgSQL and using many capabilities of a PostgreSQL engine like materialized views, triggers and functions. You can check the code and rationale at [postgis-backend](https://github.com/lesandie/postgis-backend) in my github public repo. Again I had to anonymize the code and push it to a public repo.
+* I've developed a PostGIS backend for a Qgis project template, written in PL/pgSQL and using many capabilities of a PostgreSQL engine like materialized views, triggers and functions. You can check the code and rationale at [postgis-backend](https://github.com/lesandie/postgis-backend) in my github public repo.
 
 * Some problem solving skills:
   * Using the analytics platform [Tinybird](https://tinybird.co) at my repo [tinybird_nyc_taxi](https://github.com/lesandie/tinybird_nyc_taxi)
-  * Python scripting for outliers detection [python-outliers](https://github.com/lesandie/python-outliers)
-  * Simple flask web app example and deployment to Google Cloud [flask-app](https://github.com/lesandie/flask-app)
+  * Python for outlier detection [python-outliers](https://github.com/lesandie/python-outliers)
 
 * (2018-2020) I was temporal university lecturer at the USCs [International PhD School](https://www.usc.gal/en/center/international-phd-school-university-santiago-compostela-edius), teaching text image processing with tesseract.
