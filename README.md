@@ -4,7 +4,7 @@
 ## Profile
 
 * **Email**: dnieto@gmail.com
-* **Web (in spanish)**: https://www.dnieto-it.es
+* **Web (in spanish)**: https://www.dnieto-it.com
 * **GitHub**: https://github.com/lesandie
 * **LinkedIn**: https://linkedin.com/dnieto
 * **Path**: /Spain/Pontevedra
@@ -40,7 +40,7 @@ Data startup specialized in ClickHouse OLAP Database and real time analytics. Wo
 
 I've also contributed to some stuff for [ClickHouse](https://github.com/ClickHouse/ClickHouse/issues?q=is%3Aissue+author%3Alesandie) like bugfixes, documentation improvements, tests ...
 
-Stack: ClickHouse, PostgreSQL, Python, C++, kubernetes, opentelemetry, grafana, Kafka, Redpanda, RabbbitMQ, airflow, Zookeeper ... 
+Stack: ClickHouse, PostgreSQL, Python, C++, Kubernetes, opentelemetry, Prometheus, Grafana, Kafka, Redpanda, RabbbitMQ, Airflow, Zookeeper ... 
 
 **Jan2022-Jul2022 | Software Engineer, [TRIPLE](https://jointriple.com)**
 
@@ -124,13 +124,13 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 ## Side jobs & Hobbies
 
-* I'm a selfhoster with many IoT, sensors, 3D-Printer, raspberries and HomeAssistant stuff at home. I run my own network (OpenWrt), storage & monitoring (collectd/prometheus/influxdb/timescaledb/grafana) infrastructure and sometimes I consult to customers and local SMEs. You can check my website [https://www.dnieto-it.es](https://www.dnieto-it.es) (Spanish)
+* I'm a selfhoster with many IoT, sensors, 3D-Printer, raspberries and HomeAssistant stuff at home. I run my own network (OpenWrt), storage & monitoring (collectd/prometheus/influxdb/timescaledb/grafana) infrastructure and sometimes I consult to customers and local SMEs. You can check my website [https://www.dnieto-it.es](https://www.dnieto-it.com) (Spanish)
 
 * I've crafted a guide of PostgreSQL Admin. with all my experience and knowledge (spanish). [Guia PostgreSQL](https://github.com/lesandie/guia-postgres)
 
 * I've developed a PostGIS backend for a Qgis project template, written in PL/pgSQL and using many capabilities of a PostgreSQL engine like materialized views, triggers and functions. You can check the code and rationale at [postgis-backend](https://github.com/lesandie/postgis-backend) in my github public repo.
 
-* Some problem solving skills:
+* Some basic problem solving skills:
   * Using the analytics platform [Tinybird](https://tinybird.co) at my repo [tinybird_nyc_taxi](https://github.com/lesandie/tinybird_nyc_taxi)
   * Python for outlier detection [python-outliers](https://github.com/lesandie/python-outliers)
 
