@@ -124,7 +124,7 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
 
 ## Side jobs & Hobbies
 
-* I'm a selfhoster with many IoT, sensors, 3D-Printer, raspberries and HomeAssistant stuff at home. I run my own network (OpenWrt), storage & monitoring (collectd/prometheus/influxdb/timescaledb/grafana) infrastructure and sometimes I consult to customers and local SMEs. You can check my website [https://www.dnieto-it.es](https://www.dnieto-it.com) (Spanish)
+* I'm a selfhoster with many IoT, sensors, 3D-Printer, raspberries and HomeAssistant stuff at home. I run my own network (OpenWrt), storage & monitoring (collectd/prometheus/mysql/postgres/grafana/clickhouse/mosquitto/minio) infrastructure and sometimes I consult to customers and local SMEs. You can check my website [https://www.dnieto-it.es](https://www.dnieto-it.com) (Spanish)
 
 * I've crafted a guide of PostgreSQL Admin. with all my experience and knowledge (spanish). [Guia PostgreSQL](https://github.com/lesandie/guia-postgres)
 
