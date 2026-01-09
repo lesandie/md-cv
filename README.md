@@ -38,7 +38,7 @@ Final Degree Project: Developed a front-end interface written in tcl/tk for the 
 
 Data startup specialized in ClickHouse OLAP Database and real time analytics. Working for the Support team, analyzing customer needs, problems and helping them to solve issues with deployments on both altinity.cloud service (k8s) and on-prem using the [clickhouse-operator](https://github.com/Altinity/clickhouse-operator). Also sharing tasks with other groups like Dev and Cloud, coding admin tools (data migration and audit collection tools) for [Altinity.cloud](http://altinity.cloud) platform, writting blog articles... 
 
-I've also contributed to some stuff for [ClickHouse](https://github.com/ClickHouse/ClickHouse/issues?q=is%3Aissue+author%3Alesandie) like bugfixes, documentation improvements, tests ...
+I've also contributed to some stuff for [ClickHouse](https://github.com/ClickHouse/ClickHouse/issues?q=is%3Aissue+author%3Alesandie+is%3Apr) like bugfixes, documentation improvements, tests ...
 
 Stack: ClickHouse, PostgreSQL, Python, C++, Kubernetes, opentelemetry, Prometheus, Grafana, Kafka, Redpanda, RabbbitMQ, Airflow, Zookeeper ... 
 
@@ -105,7 +105,6 @@ Worked with Ultra Enterprise hardware, Solaris, Netscape suite for customers lik
   * Python
   * Shell Scripting
   * C++
-  * Rust
 * Data/ETL:
   * PL/pgSQL
   * SQL
